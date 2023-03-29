@@ -7,4 +7,3 @@
 #### [作業一](https://github.com/nick399100/LAT/blob/main/week3/task1.ipynb)
 #### [作業二](https://github.com/nick399100/LAT/blob/main/week5/plotly%20tesk2.ipynb)
 
-#### [地圖](file:///C:/Users/nick3/Desktop/%E5%B8%AB%E5%A4%A7/LAT/LAT/week5/map.html)
