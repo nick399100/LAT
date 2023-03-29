@@ -1,0 +1,8 @@
+import pandas as pd
+df = pd.read_csv('taskdata2.csv',encoding = 'ANSI')
+import plotly.express as px
+from plotly.offline import plot
+px.set_mapbox_access_token('pk.eyJ1IjoibmljazM5OTEwMCIsImEiOiJjbGZwNzM5Z3MwOGh0M3BvYmQ1YXFsNzNrIn0.PAL5bwLCSwghjY5jBNGUCQ')
+fig = px.scatter_mapbox(df, lat='lat', lon='lon',size='學校小計',hover_name='schoolname',hover_data=["學校小計", "5年內設備數量", "5年以上設備數量"], zoom=10)
+fig.show()
+plot(fig, filename='map.html')
