@@ -1,0 +1,162 @@
+A Development of Game-Based Learning in    Virtual Reality for FireSafety Training in Thailand 
+2021 18th International Joint Conference on Computer Science and Software Engineering (JCSSE) | 978-1-6654-3831-5/21/$31.00 c2021 IEEE | DOI: 10.1109/JCSSE53117.2021.9493836
+Kodchaporn Satapanasatien Thanchanok Phuawiriyakul SamartMoodleah 60070001@it.kmitl.ac.th 60070032@it.kmitl.ac.th samart@it.kmitl.ac.th 
+FacultyofInformationTechnology KingMongkut'sInstituteofTechnologyLadkrabang,Bangkok,Thailand 
+Abstract¡X Fire incidents damaged both the economy and human life. In the past three decades, 59,387 fire incidents in Thailand approximately lost 40 billion baht and 2,076 deaths. Fire safety training methods are organized in a very limited number each year for many reasons such as training place or safety concern. We propose game-based learning for fire safety trainingusingvirtualrealitytechnology.Wecreatefivelearning lessons based on fire training contents and three playing stages (play, learn and test) that players can interact with. It behaves as a self-learning tool that can be used often and overcome the difficulty in organizing fire safety training. In addition, virtual technology simulates realistic computer graphic contents and richinteractive actions. Most importantly it offers asafe virtual environment; it extends the audience to a wide range of ages. Our game-basedtrainingis evaluated, andthe result shows that fire safety knowledge is increased by 122% and 63% compared to the non-training and the traditional training respectively as well as users' satisfaction average score is exceeded90%. 
+Keywords¡Xfire safety, game-based learning, virtual reality, serious game, training. 
+I. INTRODUCTION 
+
+Fireincidentreferstodangerarisingfromafirethatlacks supervision; covering broadly definition including small, large fire, or conflagration. According to the Department of Disaster Prevention and Mitigation, Ministry of Interior, Thailand, there were 59,387 fire situations in the past 3 decades (1989 ¡V 2018) that approximately damaged the economy 40 billion baht, more importantly, 2,076 died and 5,413 injured [1], see Fig. 1. Both government and private agencies promote fire safety awareness and how-to-survive from the situation periodically to minimize the damage. The traditional training method involves workshop-based using mixed media such as an article or video-based content. It usually covers a definition of classes of fires, types of extinguishers and their operating procedures, fire situation demonstration,andfirstaid.Workshopsareorganizedonlya fewtimesayear,whichleadstoalargenumberofaudiences in each training, eventually, insufficient knowledge and difficultytoevaluatethetrainingoutcomes. 
+The Covid-19 pandemic complicates in organizing workshops. In this research, we propose an alternative fire safety training system using a game-based learning (GBL) strategy in a virtual environment or virtual reality (VR). Playerslearnthecontentwhileenjoyingthegameplayandthe immersiveviewsuitsthenatureofcontentsbyproviding360 degrees configurable environment and rich interactivity. A system offers a completed aspect of fire safety workshop: tutorial,training,andvirtuallypracticing. 
+Thispaperisorganizedintofivesections.Thebackground andrelatedtoourworkarediscussedinthenextsection.The research methodology is explained in the third section. The fourth section explains the detail of the experiments and results.TheConclusionisdiscussedinthelastsection. 
+II. BACKGROUNDANDRELATEDWORKS 
+A. Game Base Learning 
+Game-based learning is generally a genre of game that defines alearning outcome [2]. Lessons are blendedinto the gameallowplayerstolearnbyplayingandpracticingontheir own; have fun while learning. GBL attracts players by 
+
+
+ThisresearchissupportedbyEpicMegaGrants2020undertheproject ¡§Curriculumdevelopment,Unrealresearchandtrainingcenter¡¨. 
+978-1-6654-3831-5/21/$31.00c2021IEEE 
+simulating situations, challenging and encouraging them to formself-taughtlearning.Inaddition,itmotivatestheplayers to overcome difficult tasks; splitting the subject into several smallpiecesanddeliveringintheformofgameplayeasesthe learningcurve.However,designingagoodGBLisnotaneasy task. GBL designers need to design the game structure carefullybyconsideringandvalidatingthecontentstomatch itslearningoutcomesaswellasentertaining. 
+GBLcontinuouslygainspopularity, oneofitsreasonsis technological advancement, therefore, the game becomes more interesting in terms of visualization and interaction. It benefits players learning ability (if carefully designed) and influences four positive impacts: cognitive, motivational, emotional, and social (multiplayer) [3]. Plass et al. [2] have reasonedtheelementsofwhythegameisaneffectivelearning environment as follows: motivation, player engagement, adaptation,andgracefulfailure,detailsasfollows. 
+Motivation is an empirical characteristic ofgames as the entertainment media. Its rewards are represented in many formssuchaspoints,stars,trophies,orlevels.Theseattributes areoftenusedforlearningmotivation. 
+Player engagement is used interchangeably with an activitythatplayerscommunicatewiththegame.Thedigital game provides many ways that help players with the most abilitytointeractwithandinvitethemtoengage. 
+Adaptationisthecapabilityofthegamethatengageseach playerinawaythatreflectshisorherspecificcircumstance. Game measures all the variables, e.g., prior knowledge, and, therefore,offertheappropriateresponsetotheplayers. 
+Gracefulfailureisoftenrequired,orevennecessary,inthe learningprocess.Thecapacityto failgracefullyisassociated with previous elements, such as motivation, player engagement, and adaptation.It challengesplayers to trynew thingsandexploringtowardsthegameobjectives. 
+B. Virtual Reality Technology 
+Virtualrealityisatechnologythatsimulatesareal-world environment with 3D computer graphics. It allows users to interactbyusingasetofwearabledevicesthatconsistofinput (e.g.,handstrackingdevices),processing(e.g.,computer),and displayunits(headmountdisplay:HMD). 
+VR technology is utilized in many applications, its popularityforentertainmentandeducation/training purposes. Not only an immersive graphicalbut also the safety training environment. 
+C. Motion Sickness in Virtual Reality 
+DespitethecompellingexperiencefromwearinganHMD device, one of the most common side-effects is a motion sickness symptom; this typically refers to dizziness, vomiting, andnauseatedfeeling.Recentworkshaveexposed multiplefactorsthatcausethissymptomsuchasgender,VR environmentgenre(shittingfrompleasanttohorror),posture, orgraphicalproperties[4]. 
+Moving in a virtual environment has two general types: steeringlocomotionandteleporting.Steeringlocomotionisa type of movement where users continuously initiate their moving towards the destination using the input controllers [5]. On the other hand, teleportingis where users determine the destination and are intermediately translated to that locationbypressingabutton[6]. 
+Based on human sensory conflict theories, one motion sickness severity is predicted to be lower with teleporting technique [7]. Therefore, in this work, we implement a teleporting technique that translates user position to each destination; users¡¦ posture is a sit position while playing. Notethatoneofaquestioninanexperiencedassessment(see section IV.) of our workis whether or not user experiences motionsicknesswhileplaying. 
+D. Traditional and Virtual Reality in Fire Safety Training 
+Traditionalfiresafetytrainingusesoneofthesemethods: articlesandvideo-basedcontent,ordemonstrationworkshops. Thesemethodsareconsideredasapassiveprocedure;trainees read,listen,orwatchthecontentsandself-learningwithoutor hardly provide interactive activities. One common factor is thatitlacksinstantknowledgeassessmentandfeedback;there aremanyreasonssuchasone-waycommunication(incaseof article or video-based), a large number of trainees in the workshop,orsafetyconcern.Eventually,effectiveevaluation isdifficulttoperform. 
+In contrast to traditional methods, one of the most importantfeaturesoftraininginvirtualrealityisitssafetyand rich interactive environment [8], [9]. It allows teaching a dangerous subject with more realism and safe while gaining knowledge with less effort compared to the traditional teachingprocess[10]andcost-effectivesolution[11]. 
+Fire safety training is fit into a training category that suitabletoexploitfiresafetytraininginavirtualenvironment. Themostvulnerablehabitatduringafireincidentischildren [8], therefore, using safety space training expands the ageof the audience from child to adult to be attended. In addition, virtual reality training increases the effective result of the trainee and maintained self-efficacy even 3-4 weeks after completedthetraining[12]. 
+BenefitingVRtrainingforhumanbehavior,includingfire safety,hasbeenreportedinnumerousdisasterandemergency situations[13]¡V[15].Recently, Saghafian etal.introduce fire extinguishertraininginvirtualreality[16].Inthiswork,aVR tracking device is installed with a real extinguisher so that player can realistically feel the device while observing its result in VR view. Training focuses on fire extinguisher operating procedures to put out the fire. Lovreglio et al. proposeacomparisonoftheeffectivenessbetweentraditional and virtual reality training environments [12]. Similarly, it focusesonoperatingfireextinguisheroperatingprocedures. 
+Unfortunately, to our knowledge, there is no system that covers all aspects: educating knowledge of fire, extinguishers, and their operating procedures as well as the emergency contact numbers and first aid. We propose a systemthatcombinesallpiecestogether;itallowstraineesto geteducateandpracticealltrainingaspects.Thecomparison training features of our system with the traditional and availableproduct [17]inthemarketisdisplayedinTableI. It is obvious that our training offers two systems combined exceptpracticingwitharealextinguisher. 
+III. METHODOLOGY 
+In this section, we describe the methodology and technology that are used to develop the system. There are 3 mainparts:contents,gameplayandsystemdevelopment. 
+
+TABLEI.TRAININGFEATURESCOMPARISON 
+
+
+A. Fire Safety Contents 
+Based on fire safety info from the Fire and Rescue Department,wesplittrainingcontentsintofivelessons. 
+1. 
+Classesoffire¡Vtherearefiveclassesoffire,basedon firingcausematerials,seeTableII. 
+
+2. 
+Types of extinguishers ¡V there are six types of extinguisher, based on the substance used. Use cases ofeachtypearedisplayedinTableII. 
+
+3. 
+Emergency contact numbers ¡V there are five emergency phone numbers that relate to the fire situationworkforces. 
+
+
+4. 
+Operating extinguisher procedures: the common proceduretooperatearepull,aim,squeeze,andsweep (PASS). 
+
+5. 
+Firstaid¡Vabilitytohandlethefirstaidintheeventof fire-affected. 
+
+
+Choosingthecorrecttypeofextinguisherforanyclassoffire is crucialbecause some extinguisher substance stop multiple typesoffirewhilechoosingthewrongonecausetheopposite or even aggravate the fire situation.Table II summarizes the optionsofextinguishersversustheclassoffires. 
+B. Game Design and Game Based Learning 
+Gameplay is designed based on the last sub-section contents. There are 3 main stages: learning, play, and test (LPT),thesestagesarepresentedtoplayerssequentially. 
+Learningstagecomprisesof4tutorials:the1st combinesa lesson 1 and 2 which is used together, the 2nd explains the detailoflesson3whilethe3rd and4th providelessons4and5 respectively.Alltutorialsarevideo-basedcontent. 
+Play stage is a simulated situation that allows players to practice the content interactively. There are 2 situations: the 1st simulates the knowledge trained from tutorials 1 and 2 whilethe2ndsimulatesthetutorial3and4.Theplaysequences are controlledby agame system; the 1st playis presented to playersoncetheycompletethefirst2tutorialswhilethe2nd is presentedafterplayerscompletethelast2tutorials. 
+Test stage is afire safetyknowledge assessment, we use the pre/post-test questionnaire method to ask player before and after playing a game. There are two sets of questions: knowledge-basedanduserexperiencebased. 
+GBLframework explicitlydefines the learning objective of each tutorial. Thus, the 4 tutorial objectives are understanding classes of fire and types of extinguishers, knowing how to contact the fire safety agencies, ability to operateextinguishers,andunderstandinghowtodoafirst-aid procedurerespectively. 
+
+TABLEII.FIRESANDEXTINGUISHERSCATEGORIES 
+
+Fig. 2shows agame-leveldesign. There are2areas: VR tutorial area and learning area. Fig. 2(a) is the preparation stagethathelpsplayerstounderstandhowtouseaVRdevice and navigate insideavirtualenvironment.Players learn how toteleportfromoneplacetoanotherfornavigatingaroundthe virtualenvironmentaswellasusingcontrollerdevicetolearn askillofhowtopickorreleaseanobjectwhichisrequiredin thelearningarea.Fig.2(b)iswherelearningandplaying are taken place; it consists of 5 positions that are randomly simulated fire incidents. Complete all tutorials and plays require approximately 20 to 25 minutes depends on each player.Learningstagesarenotlimitedbytime(playerscanre-tryasneeded)whiletheteststagetimeislimited(playersmust passthechallengewithinthetimelimit). 
+Notethatthevirtualenvironmentinthisgameisdesigned as amedium-size indoor areawith simpledecoration to give playersapleasantfeelingwhileplaying.Teleportinginasmall area reduces the conflict between immediate movement in a virtualspaceandhumansensorytominimizemotionsickness. 
+C. System Design and Development 
+Fig.3describesagamesystemandflowchart.Wedevelop a system using UnrealEngine 4 (UE4) and implement it on the Oculus Quest (VR device) platform. Game uses a first-personperspectivewhich enhancesplayers¡¦viewastheyare inthemiddleofthesituation. 
+InputandoutputofasystemareOculusQuestdevice¡Vit isastandalonedevicewhichdoesnotrequireconnectingtoa computer, therefore, the player has a 6 degree of freedom whileplaying.Theinputisasetofsensordevicesthatreceive actions from players; these include pressing buttons, motion sensors.The output is delivered throughhead mount display (HMD)whichoffer110degreesfieldofview. 
+For an immersive visualization, we implement the high polygon assets while maintaining the high framerate. Two important animation assets in our game are fire and extinguisher which are usedinteractively when players learn howtousetheextinguisherprocedure. 
+
+(a) IV. EXPERIMENTANDRESULT 
+
+A. Experiment 
+We design the experiment on volunteers who have not trained in fire safety. There are 11 volunteers (who never attendanofficialfiretrainingcourse)ofanaverageof21years of age; the gender is equally balanced between male and female. Volunteers are split into two groups for evaluating purposes: our game-based training and traditional training method. The number of volunteers in each group is 6 and5 personsrespectively.Notethat,therearemanyfactorssuchas genderorculturaldifferencesthatprobablyaffectthelearning outcome when adopting GBL as a learning medium. The studiesin[18],[19]showthatmalesandfemalesperformthe comparable result, however, males tend to slightly better handle new learning tools or anxiety than females. 
+
+
+(b) 
+Fig. 3. Game system overview: (a) development software and device (b) game flow chart show the gameplay sequences where the pre/post-test are performedoutsidethesystem. 
+TABLEIII.KNOWLEDGEEVALUATIONRESULT 
+TABLEIV.USERS¡¦EXPERIENCEEVALUATIONRESULT 
+Knowledge Test (Total 10 Questions)  Average Score  
+Pre-Test  Post-Test  
+(11 Persons)  Article Based (5 Persons)  VR Based (6 Persons)  
+Emergencycontact (2questions)  22.73%  30.00%  75.00%  
+Classesoffires (3questions)  45.45%  60.00%  100.00%  
+Typesofextinguisher (2questions)  18.18%  40.00%  66.67%  
+Operatingextinguisher (1questions)  45.45%  60.00%  83.33%  
+FirstAid(2questions)  59.09%  70.00%  91.67%  
+Average Score (10 questions)  38.20%  52.00%  85.00%  
+
+
+Therefore, we are safe to assume that the gender difference doesnotaffectbythisexperiment. 
+In the first group, all volunteers are required to complete thegameandperformedthetest.Playinggameisindependent andeachplayerhasnointerferencefrom/toothers.Similarly, the second group learns the identical contents through provided articles. Completing the game takes approximately 20¡V25minutes,dependsoneachplayer'sperformance. 
+Note that each volunteer performs a knowledge pre-test which covers all lessons, details refer to section III. Then, training with our proposed game or an article-based. Lastly, performing a knowledge post-test and user experience questions.Theperspectivequestionsandresultsaredisplayed inTablesIIIandIV. 
+B. Result 
+Fire safety knowledge evaluates how much knowledge players gain while user¡¦ experience evaluates how much playerslikeagame. Fig.4captures several actions fromour game.Thefollowingsummarizestheresults. 
+Users¡¦ Experience Opinion (Total 7 Questions)  Ave Score (5 points)  Description  
+1)Gameartistic  4.83  Higherisbetter  
+2)Playerskillstocompletethegame  3.17  Lowerisbetter  
+3)Contentnarrativeandsoundquality  4.83  Higherisbetter  
+4)DifficultylevelofVRusageingame  3.17  Lowerisbetter  
+5)Gameplayprocedure(difficultoreasy tounderstand)  4.50  Higheriseasier  
+6)Recommendationgametoothers  4.67  Higherisbetter  
+7)Feelingmotionsicknesswhileplaying  2.60  Lowerisbetter  
+
+1. 
+Knowledge ¡Vthe average score ofpre-test andpost-test of an article-based, and our game-based are 3.82/10,5.2/10,and8.5/10respectively. 
+
+2. 
+Users¡¦experiences ¡Vmost ofthe players, over 90%, like the gameplay, artistic and recommend this traininggametoothers.Notethatthemotionsickness score is approximately 50% while the recommendation game to others score is approximatelyover90%. 
+
+
+Details ofknowledge evaluation based on 5 contents are explained in Table III. The comparison score between pre/post-testofeachlesson iscalculatedby the total number of testers who answer correctly. Details of users¡¦experience evaluationareexplainedinTableIV. 
+
+
+(a) 
+(b) (c) 
+
+(d) 
+(e) (f) 
+
+
+
+Fig.4.Gameinactions:(a)-(b)preparationstageteacheshowtouseVRdeviceandnavigatingin thegame,(c)-(e)matchingclassesoffirewith typesof extinguishers,and(f)practicingextinguishersfollowingpull,aim,squeeze,andsweepprocedure. 
+V. CONCLUSIONANDFUTUREWORK [9] K. W. Lau and P. Y. Lee, ¡§The use of virtual reality for 
+We proposed fire safety training game-based learning using VR technology; it covered all key components from emergency contact numbers, classes of fire, types of extinguishers and its operating procedures as well as afirst-aidprocedure.Themaincontributioniswedemonstratehow difficult anddangerous tasks such as fire safety training can bedone foralltypesofaudiencesbyemploying the existing technologiessuchasVRandgame-basedlearningstrategy.It showed that both the knowledge and experience from our systemare high.The knowledge score is increasedby122% and 63% compare to the non-training and the traditional trainingrespectively,andover90%ofusersrecommendedit tootherswhilethemotionsicknesslevelismoderate. 
+The game provided immersive content, rich actions, and instancepracticing.Usersinstantlygotfeedbackwhichhelps them analyze and improve their knowledge. In addition, it offereddangerous-freetrainingbecausethesystemsimulates firesituationsinavirtualenvironment. 
+However, there are several possibilities to improve our system. For examples, the in-game pre/post-test feature or multiplayer training networks which drive game-based learning mechanism; play with a team to collaborative or competitiveand to completethe gameobjective.Inaddition, fireevacuationtrainingalsoispossiblyextendedtoourgame. 
+REFERENCES 
+
+[1] ¡§Fire events in Thailand (1989 -2018),¡¨ Jan. 29, 2021. http://social.nesdc.go.th/SocialStat/StatReport_FullScreen. aspx?reportid=3673&template=2R1C&yeartype=M&subc atid=48(accessedJan.29,2021). 
+[2] J. L. Plass, B. D. Homer, andC. K. Kinzer, ¡§Foundations ofGame-BasedLearning,¡¨ Educational Psychologist,vol. 50, no. 4, pp. 258¡V283, Oct. 2015, doi: 10.1080/00461520.2015.1122533. 
+[3] I.Granic,A.Lobel,andR.C.M.E.Engels,¡§Thebenefits ofplaying video games.,¡¨American Psychologist,vol.69, no.1,pp.66¡V78,Jan.2014,doi:10.1037/a0034857. 
+[4] U.A.Chattha,U.I.Janjua,F.Anwar,T.M.Madni,M.F. Cheema, and S. I. Janjua, ¡§Motion Sickness in Virtual Reality:AnEmpiricalEvaluation,¡¨IEEE Access,vol.8,pp. 130486¡V130499, 2020, doi: 10.1109/ACCESS.2020.3007076. 
+[5] C.Boletsis,¡§TheNewEraofVirtualRealityLocomotion: A Systematic Literature Review of Techniques and a ProposedTypology,¡¨ MTI,vol. 1, no. 4,p. 24, Sep.2017, doi:10.3390/mti1040024. 
+[6] M. P. Jacob Habgood, D. Moore, D. Wilson, and S. Alapont,¡§Rapid,ContinuousMovementBetweenNodesas an Accessible Virtual Reality Locomotion Technique,¡¨ in 
+2018 IEEE Conference on Virtual Reality and 3D User Interfaces (VR),Reutlingen, Mar. 2018,pp.371¡V378. doi: 10.1109/VR.2018.8446130. 
+
+[7] J.CliftonandS.Palmisano,¡§Effectsofsteeringlocomotion and teleporting on cybersickness and presence in HMD-based virtual reality,¡¨ Virtual Reality, vol. 24, no. 3, pp. 453¡V468,Sep.2020,doi:10.1007/s10055-019-00407-8. 
+[8] U.Cakiro.luandS.Goko.lu,¡§Developmentoffiresafety behavioral skills via virtual reality,¡¨ Computers & Education, vol. 133, pp. 56¡V68, May 2019, doi: 10.1016/j.compedu.2019.01.014. 
+creating unusual environmental stimulation to motivate students to explore creative ideas,¡¨ Interactive Learning Environments, vol. 23, no. 1, pp. 3¡V18, Jan. 2015, doi: 10.1080/10494820.2012.745426. 
+[10] L. Freina and M. Ott, (b) A Literature Review on Immersive Virtual Reality in Education: State Of The Art and Perspectives. 
+[11] Z. Feng, V. A. Gonzalez, R. Amor, R. Lovreglio, and G. Cabrera-Guerrero,¡§Immersivevirtualrealityseriousgames forevacuationtrainingandresearch:Asystematicliterature review,¡¨ Computers & Education, vol. 127, pp. 252¡V266, Dec.2018,doi:10.1016/j.compedu.2018.09.002. 
+[12] R. Lovreglio, X. Duan, A. Rahouti, R. Phipps, and D. Nilsson,¡§Comparingtheeffectivenessoffireextinguisher virtual reality and video training,¡¨ Virtual Reality, May 2020,doi:10.1007/s10055-020-00447-5. 
+[13] M.Cha,S.Han,J.Lee,andB.Choi,¡§Avirtualrealitybased firetrainingsimulatorintegratedwithfiredynamicsdata,¡¨ Fire Safety Journal, vol. 50, pp. 12¡V24, May 2012, doi: 10.1016/j.firesaf.2012.01.004. 
+[14] Z. Xu, X. Z. Lu, H. Guan, C. Chen, and A. Z. Ren, ¡§A virtual reality based fire training simulator with smoke hazard assessment capacity,¡¨ Advances in Engineering Software, vol. 68, pp. 1¡V8, Feb. 2014, doi: 10.1016/j.advengsoft.2013.10.004. 
+[15] S. L. Farra, E. T. Miller, and E. Hodgson, ¡§Virtual reality disastertraining:Translationtopractice,¡¨Nurse Education in Practice, vol. 15, no. 1, pp. 53¡V57, Jan. 2015, doi: 10.1016/j.nepr.2013.08.017. 
+[16] M. Saghafian, K. Laumann, R. S. Akhtar, and M. R. Skogstad, ¡§The Evaluation of Virtual Reality Fire ExtinguisherTraining,¡¨Front Psychol,vol.11,Nov.2020, doi:10.3389/fpsyg.2020.593466. 
+[17] ¡§Fire Safety Lab VR on Steam.¡¨ https://store.steampowered.com/app/1250170/Fire_Safety _Lab_VR/(accessedJan.31,2021). 
+[18] F.-H. Tsai, ¡§An Investigation of Gender Differences in a Game-based Learning Environment with Different Game Modes,¡¨ EURASIA J MATH SCI T, vol. 13, no. 7, Jun. 2017,doi:10.12973/eurasia.2017.00713a. 
+[19] H. Lukosch, S. Kurapati, D. Groen, and A. Verbraeck, ¡§GenderandCulturalDifferencesinGame-BasedLearning Experiences,¡¨ Electronic Journal of e-Learning, vol. 15, no.4,pp.310¡V319,2017. 
+
+

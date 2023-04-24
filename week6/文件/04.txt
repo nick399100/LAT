@@ -1,0 +1,223 @@
+
+
+
+
+
+
+
+Chatbot for E-Learning: A Case of Study 
+ 
+Francesco Colace, Massimo De Santo, Marco Lombardi, Francesco Pascale, and Antonio Pietrosanto 
+DIIn, University of Salerno, Fisciano (SA), Italy 
+Email: {fcolace, desanto, malombardi, fpascale, apietrosanto@unisa.it}@unisa.it 
+ 
+Saverio Lemma  
+SIMASLab, University of Salerno, Fisciano (SA), Italy 
+Email: slemma@unisa.it 
+ 
+ 
+ 
+Abstract¡X Nowadays the use of Chatbots is very popular in a large scale of applications especially in systems that provide an intelligence support to the user. In fact, to speed up the assistance, in many cases, these systems are equipped with Chatbots that can interpret the user questions and provide the right answers, in a fast and correct way. This paper presents the realization of a prototype of a Chatbot in educational domain:  it has been developed a system to provide support to university students on some courses. The initial purpose has focused on the design of the specific architecture, model to manage communication and furnish the right answers to the student. For this aim, it has been realized a system that can detect the questions and thanks to the use of natural language processing techniques and the ontologies of domain, gives the answers to student. Finally, after the implementation of the designed model, experimental campaign was conducted in order to demonstrate its enforceability and efficiency.ƒn 
+Manuscript received April 6, 2018; revised August 24, 2018. 
+ 
+Index Terms¡X chatbot, E-Learning, educational support systems 
+ 
+I. INTRODUCTION 
+A Chatbot (or Chatterbot) is a software (machine) that talks with an user (human): it is a virtual assistant able to answer a number of user questions, providing the correct responses. In the last few years there has been a fast growing up of the use of Chatbots in various fields, such as Health Care, Marketing, Educational, Supporting Systems, Cultural Heritage, Entertainment and many others. Major companies have developed several Chatbots both for industrial solutions and for research: some of the most famous are Apple Siri, Microsoft Cortana, Facebook M and IBM Watson. These are just some of the most popular systems. There is a wide range of a less famous Chatbots that have a greater relevance for research and for their applications, some of which will be discussed in the next chapter.  
+One of the most challenging research tasks is the development of effective Chatbots: the emulation of human dialogues, in fact, is a really difficult task and involves problems related to the NLP (Natural Language Processing) research field [1]. Thanks to the use of NLP algorithms and techniques it is possible to understand 
+what the user is writing and which are his requests. Generally, this task represents the core of system but there are some problems: it is not possible to map all user requests, and the current Chatbots do not show remarkable performances because of the unpredictability of user thought during a conversation [2]. The correct design of conversational flow plays an important role in the development of a Chatbot. In fact, for a successful conversation, it is important to handle with all user requests and provide the right answers. In the literature we find several examples and researches works on the management of conversational workflow. Most of this works use ontologies, based on the knowledge base of the domain, that can be used to interpret the intentions of the user and solve the problem of interpretation of sentences written by the user [3].  
+As previously said, one Chabot field of application is Educational. Recently there has been an increase of Chatbots for e-learning platforms to support student learning [14]. Chatbot technology can be considered an important innovation for e-learning: in fat they are turned out to be the most innovative solution in filling the gap between technology and education. The implication of Chatbots creates an interactive learning experience for the students, like the one-to-one interaction with the teacher. From testing the student¡¦s behavior and in order to keep track of their improvements, bots play an essential role in enhancing the skills of an individual student. Moreover, they can also serve a major role in encouraging a student to work by sending regular reminders and notifications. There are several other cases of use of Chatbots for e-learning, for example is possible to provide a system for a personalized learning experience: each student earns and absorbs things at a different pace. Using Chatbots is possible to adapt the speed at which a student can learn without being too pushy. Chatbot can also be used as a source of social learning, in fact students from different backgrounds can share their views and perspectives on a specific matter while the bot can still adapt to each one of them individually. This technology can improve engagement among students and encourage interaction with the rest of the class by assigning group works and projects like teachers usually do. Chatbots can help teachers in their work routine, answering to student¡¦s questions or even checking their homework. Often, they are used as online assessments: if in a class there are 
+many students, give attention to each one of them becomes very demanding for teachers, while Chatbots can work with multiple students and groups at the same time. They can also work as a support for teachers by identifying spelling and grammatical mistakes, checking homework, assigning projects and especially keeping track of progress and achievements of each student. 
+This paper presents the realization of a Chatbot prototype for supporting students during their learning activities. Chatbot aims to be an e-Tutor for students. The aim of this paper is the introduction of a framework for:  
+„h The automatic identification of the students¡¦ needs thanks to the adoption of Natural Language Processing Techniques  
+
+„h The selection of the best answer thanks to the use of the ontological representation of knowledge domain 
+
+
+An experimental campaign has been developed for the evaluation of the performance of the system. In the next section, the related works are presented. 
+II. RELATED WORKS 
+In literature, there are many approaches related to Chatbots, in particular on e-learning systems. From the beginning of the last decade the use of artificial intelligence as e-learning support has captured the interest of many researchers for its many applications. One of these research works is [4], in which Farhan M. et al. using a web bot in an e-learning platform, to address the lack of real-time responses for the students. In fact, when a student asks a question on e-learning platform the teacher could answer at a later stage. If there are more students and more questions, this delay increases. Web bot is a web-based Chatbot that predicts future events based on keywords entered on the Internet. In this work Pandora is used, a bot that stores the questions and answers it on XML style language i.e. Artificial Intelligence Markup Language (AIML). This bot is trained with a series of questions and answers: when it cannot provide a response to a question, a human user is responsible for responding. In the last recent years some interesting research works can be found. In [5] Niranjan M. et al. discussed about an interesting approach using Bayesian theory to match the request of student and furnish the right response. In particular, Chatbot agent accepts to student¡¦s answers and extracts the keywords from the question using a lexical parser, then the keywords are compared with the category list database. The Bayesian probabilities are obtained for all categories in the list. Once the category is selected keywords are compared with the questions under the category using Bayesian probability theory. The answer to the question, which has the highest posterior probability, is then fed into the text to speech conversion module and thus the student receives the answer to his question as a voice response. In [6] Satu S. et al. many Chatbot applications based on AIML are analyzed: in particular an integrated platform which consists of a basic AIML knowledge is presented. In this project, Chatbot is called Tutorbot because it is functionality backing of didactics done in e-learning environments. It contains some features as natural language management, presentation of contents, and interaction with search engine. Besides, e-learning platforms work is linked to indispensable services to web service. A continuous monitoring service has been created on e-learning platform servers which is another controlling machine: Daemon. In [7] Nordhaug O. et al. proposed a game based e-Learning tool called The Forensic Challenger (TFC), used to teach digital forensic investigation. A Chatbot inside the learning platform helps students. A multiple-choice question based quiz is implemented for kinesthetic learners, and there is a pedagogical Chatbot agent that assists users. It provides easy navigation and interaction within the content. The Chatbot is implemented to be a pedagogical agent for the users, which is meant for discussions and help with the topics. It also acts as a navigation tool and can play video or use the advanced wiki if there are somethings to ask. In [8] Nenkov N. et al. have investigated about the realization of intelligent agents on platform IBM Bluemix with IBM Watson technology. These agents in the form of Chatbots have to automate the interaction between the student and the teacher within the frames of Moodle learning management system. Watson is a cognitive system that combines capabilities in Natural Language Processing, analytics, and machine learning techniques. In this case, a Chatbot through the Facebook Messenger is realized to simplify communication between a teacher and a student: it could be arranged by acquiring Moodle test basis by Facebook Messenger Bot GUI Builder. A motivating example will be illustrated in the next session. 
+III. MOTIVATING EXAMPLE 
+A bot (short for "robot") is an automated program that runs over the Internet. Some bots run automatically, while others only execute commands when they receive specific input. There are many different types of bots, but some common examples include web crawlers, chat room bots, and malicious bots. Chatbots were one of the first types of automated programs to be called "bots" and became popular in the 1990s, with the rise of online chatrooms. These bots look for certain text patterns submitted by chat room participants and respond with automated actions. For example, a chat bot might warn a user if his or language is inappropriate. If the user does not heed the warning, the bot might kick the user from the channel and may even block the user from returning. A more advanced type of chat bot, called a "chatterbot" can respond to messages in plain English (or other languages), appearing to be an actual person. Both types of chat bots are used for chatroom moderation, which eliminates the need for an individual to monitor individual chatrooms. 
+The introduction of bots in schools as a tool to support traditional didactic activities can renew the way school works from the point of view of learning; it can help to modernize a blocked school in fixed schemes to keep up the pace of a third millennium society. 
+The main feature of this work is the use of bots in teaching field, particularly in e-learning: this expression 
+means a form of independent training from space and time of distribution and characterized by the physical separation between teacher and student. This is very important if we consider the difficulties that can be encountered by working students and by those ones who live far from centers that provide training or who can¡¦t access them (disabled, hospitalized ...). It is equally relevant with a view to continuing education, that is, a training that accompanies the individual throughout life and is not limited to the first years of existence. 
+A teaching-oriented platform, however, is really useful when it allows the student to take an active role in building his/her knowledge through dialogue, exchange and deepening tools (forums, chat, site links etc.). 
+Three privileged didactic uses for the e-learning bot can be highlighted: 
+„h Lectures 
+
+„h Recovery actions. 
+
+„h Ways of deepening  
+
+
+Differing significantly from textbooks, dealing with a subject that is not contemplated or treated differently from what is desired, the bot for e-learning can be a useful broadcast tool because, compared to the simple oral lesson, allows to offer students a text that can be consulted. 
+This type of work implies a considerable commitment on the part of the teacher, who evidently has to prepare the text of the lesson in writing, or at least a map or summary of the irreplaceable content that will then expand in a voice but has the great benefit of saving the contents and make them usable (and editable or implementable) every time that he/she later wants to develop the same topic. 
+Organizing the material on the platform implies, therefore, by the teacher or in general by a system administrator, significant preliminary work. However, the platform can be considered as a permanent work in progress because it is continuously implemented over time. 
+By dividing the tasks among teachers, in relation to the activities to be set up, it is possible to have, in a short time, standardized and reusable packages from year to year. 
+When discussing a topic, it may be necessary to evaluate, in terms of formative verification, the level of understanding or assimilation of a content. 
+For the provision of verifications, the platform can offer different modes, including multiple response, true/false and short response. Finally, when the score for each item is set, the system automatically corrects and calculates the score. 
+IV. SYSTEM ARCHITECTURE 
+As previously said, an e-learning Chatbot has been made: its architecture is shown in Fig. 1. 
+The architecture of our model is composed of: 
+„h Front-End 
+
+„h Back-Office 
+
+„h Knowledge Base Module 
+
+„h E-learning BOT Module  
+
+
+The first module represents the presentation layer (front end) through providing a user-friendly interface: it consists of different kinds of device like tablets, smartphones, PCs and so on. 
+The Back-Office is used to manage operations that are not seen by end user. This module works in the background to better satisfy user demand: it handles business logic and data storage, working in collaboration with the knowledge base. 
+The Knowledge Base Module is a special type of database, where data is processed by a server, for the management of knowledge and information: in particular, ¡§Users¡¨, representing all users of the application (Students, Professors, etc.); ¡§Learning object¡¨ is a collection of content items, practice items, and assessment items that are combined based on a single learning objective. 
+The E-learning BOT Module is the main engine of the proposed system. It¡¦s composed of 
+„h Interaction Quality Tracker: this module monitors interactions between users and Chatbot, evaluating conversation logs based on quality indicators and highlighting critical aspects of Human-machine interactions. 
+
+„h Human-Computer Interaction Supervisor: it supervises dialogue, tracks interaction times, identifies ambiguous questions, recognizes non-convergent interaction sessions, and indicates the need for community support if it is not possible to give a correct answer. 
+
+„h Context-Aware Information Manager: this module allows to drive the dialogue based on contextual parameters (for example, user profile, user position, etc.). The goal is to provide a mechanism of dynamic and automatic invocation of information considering the context through the Context Dimension Tree [9] [10]. 
+
+„h Inference Engine: it is designed to provide right answer to the user through Latent Dirichlet Allocation Algorithm and Workflow Manager. In particular, the design of a Workflow Manager is divided into two main phases. The first phase is the definition of an ontology for the description of a certain knowledge domain: in this case, E-learning domain. It¡¦s obtained thanks to the support of domain experts and the adoption of pre-existing ontologies. The second phase is related to the definition of a workflow navigation module. In this way, according to the conversation (through word analysis), this module can surf the ontology and select the more appropriate sentences. So, a way for the description of the workflow is needed: an effective way is the Petri Net [11]. 
+
+
+ 
+
+Figure 1.  System Architecture.
+
+
+As previously said, a surfer to navigate the ontology is needed. Therefore, an approach based on the Petri Nets could be effective. In particular, the aim is to describe a typical workflow by the adoption of a Petri Net. Each phase of the conversation is modelled as a node of a Petri Net while the transaction is obtained thanks to some structures that are identified in the sentences. The aim is the identification of the right intent/request of the end user. 
+Therefore, in this scenario, the first aim has been to build an ontology, shown in Fig. 2, to describe the reference taxonomy. 
+ 
+
+Figure 2.  Ontology. 
+
+
+The ontology model is composed of: 
+„h Topic of Study: it represents a field of study for a set of subjects (for example Computer Science);  
+
+„h User is a Student or a Professor; 
+
+„h Course is an instance of specific Topic of Study (for example, Fundamentals of Computer Science or Computer Networks); 
+
+„h Lesson is a didactic module of Course; 
+
+„h Learning Object is a modular resource, usually digital and web-based, that can be used and re-used to support learning activities.  
+
+
+We propose a framework by applying the ontology technology to the e-learning environment, e-learning systems can be more intelligent, powerful, and adaptive; it is shown as in Fig. 3. 
+ 
+
+Figure 3.  Reference Framework. 
+
+
+The main purpose of using ontological representation is to gain the ability of inferring a user¡¦s intention, even though the user may not know what he/she wants exactly.  
+In our model, the followings are the key works to reach the goal: 
+„h Build an e-learning ontology. The ontology, described above, is capable of addressing the 
+
+
+relationship and evaluating the semantic distance between learning objects, and of inferring a user¡¦s intention and disambiguating the query. 
+
+„h Manage queries. The aim is inferring module for constructing user intention. There are two operations: keyword extraction and infer user intention. The main idea of this research is to provide semantic inference engine that connects the user query and learning object metadata, and provides semantic inference capability. The solution employs the Latent Dirichlet Allocation (LDA) algorithm [12][13], which is based on some standard operation in most natural language processing technologies: process the user query, remove stopwords and stemming, extract keywords. 
+
+„h Map learning object metadata (LOM) instances into ontology. A LOM description will be distributed into the ontology as the instances of concepts. Indexing the LOM description into the ontology is the key step for instantiating the relations between learning objects. 
+
+
+Moreover, as can be seen from the Fig. 3, in our framework there are a back-end and a front-end. The back-end is learning objects provider. Each learning object metadata will be pointed to one or some ontology concepts. The front-end receives queries from user and then enters the inference procedure to infer users¡¦ intention. In Fig. 4 there is an example of this system. 
+ 
+
+Figure 4.  A Screenshot of proposed system. 
+
+
+We can consider the example of the proposed solution in the field of e-learning: a student of the University courses of Fundamental of Computer Science accesses our system in order to ask for an in-depth study on a specific topic such as CPU. The bot receives the request, elaborates it and answers to the student by sending he/she the attached material or through textual insights on the subject. The example just described can be seen in Fig. 4. 
+V. EXPERIMENTAL RESULTS 
+To evaluate the performances of the proposed system an experimental campaign has been developed. In particular, the aim of the experimentation has been the evaluation of the system effectiveness in the recognition of students¡¦ requests. Moreover, the usability of the system has been evaluated. An implementation of the Chatbot has been developed and inserted in e-learning platform at University of Salerno. Two study courses were considered: Fundamentals of Computer Science and Computer Networks. The first class was composed by 167 students and the second one by 124 students. During the semester, all students used the platform and the Chatbot: the experimental analysis has been conducted about only the students who passed the exams at the first call, which were 121 for Fundamentals of Computer Science and 87 for Computer Networks. At the end of the session, an email with a questioner has been sent to the students who passed the exam, and in three months about 187 of them responded: the experimental analysis has been conducted on these ones. First of all, the performance of the Chatbot in providing the correct suggestions to the user has been evaluated. In particular, three different situations have been considered: 
+„h Chatbot furnishes a correct suggestion 
+
+„h Chatbot furnishes a correct suggestion, but it does not fit with the real needs of the student 
+
+„h Chatbot furnishes a wrong suggestion 
+
+
+The obtained results are the following: 
+A)  Correct Suggestion: 133 - 71,13% 
+B)  Correct Suggestion, but not suitable for  the needs of the student: 30 -  16,04% 
+C)  Wrong Suggestion: 24 - 12,83% 
+Analyzing the Wrong Suggestion case, it¡¦s possible to see that the system fails when students talk about an argument that have various meanings because the bot proposes a response that was not what the student was looking for. Another critical aspect occurs when the system does not understand what kind of language the student is considering: it happens, for example, when it¡¦s not clear if the student is considering a C or a C++ language programming. In case of Correct Suggestion, but not suitable for the needs of the student, the main problem is the identification of the real user needs, for example when the student ask a question about an argument on a specific book but the system fails to identify the correct one. From the point of view of the usability a questionnaire about his/her interaction with the Chatbot has been submitted to each student: generally they find the Chatbot easy to use and user friendly. Comparing it with other Chatbots (for example Messenger Chatbot or similar) students says that it is more simple and effective. 
+VI. CONCLUSIONS 
+In this paper, an original approach to a Chatbot has been introduced. In particular, the proposed system is based e-learning platform for students. A real case has been investigated developing a Chatbot for the students of Fundamentals of Computer Science and Computer 
+Networks courses. The results obtained by the experimental campaign are satisfying and show the good perspective of this kind of approach. Further developments involve the application of the proposed approach in various contexts and an improvement of e-learning platform. 
+REFERENCES  
+[1] M. Yan, P. Castro, P. Cheng, V. Ishakian, ¡§Building a chatbot with serverless Computing,¡¨ in Proc. the 1st International Workshop on Mashups of Things and APIs Article No. 5, 2016. 
+
+[2] Y. Bi, K. Deng, and J. Cheng ¡§A Keyword-Based Method for Measuring Sentence Similarity,¡¨ in Proc. the 2017 ACM on Web Science Conference, pp 379-380, 2017. 
+
+[3] L. Lin, L. F. D'Haro, R. Banchs ¡§A Web-based Platform for Collection of Human-Chatbot Interactions,¡¨ in Proc. the Fourth International Conference on Human Agent Interaction, pp. 363-366, 2016. 
+
+[4] M. Farhan, I. M. Munwar, M. Aslam, A. M. Martinez Enriquez, A. Farooq, S. Tanveer, and P. A. Mejia ¡§Automated reply to students¡¦ queries in e-learning environment using Web-BOT,¡¨ Eleventh Mexican International Conference on Artificial Intelligence: Advances in Artifical Intelligence and Applications, Special Session - Revised Paper, 2012. 
+
+[5] M. Niranjan, M. S. Saipreethy and G. T. Kumar ¡§An intelligent question answering conversational agent using naive Bayesian classifier,¡¨ International Conference on Technology Enhanced Education (ICTEE), 2012. 
+
+[6] S. Satu, H. Parvez, and Shamim-AI-Mamun ¡§Review of integrated applications with AIML based chatbot,¡¨ First International Conference on Computer and Information Engineering (ICCIE), 2015. 
+
+[7] O. Nordhaug, A. S. Imran, Al. Alawawdeh and S. J. Kowalski ¡§The forensic challenger,¡¨ International Conference on Web and Open Access to Learning (ICWOAL), 2015. 
+
+[8] N. Nenkov, G. Dimitrov, Y. Dyachenko and K. Koeva ¡§Artificial intelligence technologies for personnel learning management systems,¡¨ Eighth International Conference on Intelligent Systems, 2015. 
+
+[9] M. Casillo, L. Cerullo, F. Colace, S. Lemma, M. Lombardi and A. Pietrosanto, ¡§An adaptive context aware app for the tourism,¡¨ The 3rd Multidisciplinary International Social Networks Conference (MISNC), 2016. 
+
+[10] M. Casillo, F. Colace, M. De Santo, S. Lemma, M. Lombardi, A. Pietrosanto, ¡§An Ontological Approach to Digital Storytelling,¡¨ The 3rd Multidisciplinary International Social Networks Conference (MISNC), 2016. 
+
+[11] F. Colace, M. De Santo, S. Lemma, M. Lombardi, F. Pascale ¡§BotWheels: a Petri Net based Chatbot for Recommending Tires,¡¨ in Proc. the 3rd edition of Special Session on Knowledge Discovery meets Information Systems: Applications of Big Data Analytics and BI - methodologies, techniques and tools (KomIS), within the 6th International Conference on Data Science, Technology and Applications (DATA), 2017. 
+
+[12] F. Colace, M. De Santo, L. Greco, P. Napoletano ¡§Improving relevance feedback-based query expansion by the use of a weighted word pairs approach,¡¨ Journal of the Association for Information Science and Technology, vol. 66, no. 11, pp. 2223-2234, 2015. 
+
+[13] F. Colace, M. De Santo, L. Greco, and P. Napoletano ¡§Weighted word pairs for query expansion,¡¨ Information Processing and Management, vol. 51, no. 1, pp. 179-193, 2015 
+
+[14] G. D'Aniello, A. Gaeta, M Gaeta, S. Tomasiello ¡§Self-regulated learning with approximate reasoning and situation awareness,¡¨ Journal of Ambient Intelligence and Humanized Computing, pp. 1-14, 2016. 
+
+
+ 
+ 
+ 
+Francesco Colace (M¡¦00) graduated in electronic engineering and received the Ph.D. degree in computer science from the University of Salerno, Salerno, Italy. Since 2005, he has been Assistant Professor in the Department of Information Technology and Electric Engineering of the University of Salerno, Fisciano, Italy. Since 2000, he has been active in the field of computer networks, ontology engineering and e-learning. He is author of more than 75 research works. He is Scientific Coordinator of several research projects funded by the Italian Ministry of University and by European Community. His main present research interests concern sentiment analysis, semantic web, text categorization and ontological engineering. 
+ 
+ 
+ 
+Massimo De Santo Since 2004, he has been Full Professor in the Department of Information Technology and Electric Engineering of the University of Salerno, Fisciano, Italy, where he is the head of the ICT Center. Since 1985, he has been active in the field of computer networks, image processing, and pattern recognition. He is author of more than 150 research works. He is Scientific Coordinator of several research projects funded by the Italian Ministry of University and by European Community. His main present research interests concern distributed multimedia application for education and image compression for multimedia. 
+ 
+ 
+ 
+Saverio Lemma He is currently Research Fellow in the SIMASLab of the University of Salerno and his main research interests concern information retrieval, Context Awareness, ontological engineering and Computer Networks. 
+ 
+ 
+ 
+Marco Lombardi Phd student at University of Salerno. His main research interests concern information retrieval, Context Awareness, ontological engineering and Computer Networks. 
+ 
+ 
+ 
+Francesco Pascale Phd student in Internet of Things and Context Aware Computing at University of Salerno. Master's degree in Computer Engineering at the University of Naples "Federico II" in October 2014. 
+ 
+ 
+ 
+Antonio Pietrosanto (M¡¦99¡VSM¡¦12) was born in Naples, Italy, in 1961. Since 2001, he has been a Full Professor of Electrical and Electronic Measurement with the University of Salerno. He has been the Founder of three spin off of the University of Salerno: SPRING OFF, Metering Research, and Hippocratica Imaging. He co-authored more than 150 papers in international journals and conference proceedings. His main research activities are in the fields of instrument fault detection and isolation, sensors, WSNs, real-time measurements, embedded systems, metrological characterization of measurement software, advanced system for food quality inspection, and image-based measurements.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

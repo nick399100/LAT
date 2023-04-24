@@ -1,0 +1,531 @@
+Implementation of a Virtual Reality Operating 
+Room for Simulation Purposes in Medical Training
+
+Abdeljalil Azar
+
+Medical Simulation Center of the 
+Cheikh Zaid Foundation (CSMFCZ) 
+Cheikh Zaid Foundation 
+Rabat, Morocco 
+abdeljelilazar123@gmail.com
+
+Zineb Farahat
+
+Medical Simulation Center of the 
+Cheikh Zaid Foundation (CSMFCZ) 
+Cheikh Zaid Foundation 
+Rabat, Morocco 
+farahatzineb@gmail.com
+
+Oumama Benslimane 
+Medical Simulation Center of the 
+Cheikh Zaid Foundation (CSMFCZ) 
+Cheikh Zaid Foundation 
+Rabat, Morocco 
+oumamabenslimane@yahoo.fr
+
+Nabil Ngote
+
+Abulcasis International University of 
+Health Sciences (UIASS)
+
+Rabat, Morocco 
+ngotenabil@gmail.com
+
+Jamal Samir 
+Cheikh Zaid Foundation 
+Rabat, Morocco 
+ssamirj amal@yahoo. fr
+
+Kawtar Megdiche
+
+Medical Simulation Center of the 
+Cheikh Zaid Foundation (CSMFCZ)
+
+Cheikh Zaid Foundation 
+Rabat, Morocco
+
+megdiche.kawtar@gmail.com
+
+Abstract¡X As a technology allowing an immersion in a 
+digitally created artificial world, virtual reality has 
+increasingly replaced experiments on real-world objects. Thus, 
+the implementation of a virtual reality solution can be very 
+beneficial in education and scientific research fields. Medical 
+simulation fits perfectly into this dynamic of integrating digital 
+tools in the health sciences teaching. Therefore, the Cheikh 
+Zaid Foundation's Medical Simulation Center (CSMFCZ), has 
+focused on educational innovation by developing its own 3D 
+environment. This paper deals with the particular case of an 
+operating room, allowing simulation of different surgical 
+scenarios in order to enrich the digital platform of the 
+CSMFCZ.
+
+Keywords¡XVirtual Reality, Autocad, Archicad, Medical 
+Simulation, 3D environment, Blender
+
+I. Introduction
+
+Simulation can be defined as a technique to replace a real 
+system with a model to study its behavior [1]. Several 
+reasons justify the use of a system model to be studied 
+instead of the system itself: either the actual system is 
+inaccessible to direct observation, or the latter cost or the 
+system characteristics prohibit experimental use, in particular 
+because of possible risks to humans [2] .It is therefore an 
+essential tool for the training of risky professions, which 
+makes it possible to reproduce the most diverse situations 
+and to learn technical gestures without taking any real risks 
+nor make any mistakes.
+
+Simulation can be applied to several disciplines such as 
+aeronautics, nuclear, shipping, armed forces and health. In 
+the specific case of health, Simulation corresponds to "the 
+use of a material (such as a manikin or a procedural 
+simulator), Virtual Reality or a standardized patient to 
+reproduce situations or care environments to teach diagnostic 
+and therapeutic procedures, and to repeat processes, medical 
+concepts or decision-making by a health professional or team 
+of professionals."[3]
+
+Simulation¡¦s use is of real educational interest because it 
+allows the acquisition of theoretical, technical and nontechnical 
+knowledge in a sustainable way, while ensuring the 
+safety and comfort of patients [2].
+
+Thus, in 1759, one of the first mannequins used for 
+teaching was born: It is Angelique du Coudray¡¦s delivery
+
+mannequin created in 1759, which allowed to train many 
+midwives and doctors [4].
+
+But the real upsurge of modern simulation began only in 
+the 1960s. The first models developed by Laerdal, a 
+Norwegian toy manufacturer, trained health care workers and 
+the general public in cardiopulmonary resuscitation, chest 
+compressions and mouth-to-mouth. The manikin developed 
+by Dr. Harvey in 1968 was the first model to use the modern 
+concept of task simulator such as blood pressure and cardiac 
+auscultation to identify cardiac conditions [5] [6].
+
+At the same time, Doctors Stephen Abrahamson and 
+Judson Denson developed the first computer-controlled 
+manikin, the Sim One [7].
+
+In 1987, Dr. David Gaba adapted computer software used 
+in everyday practice, mannequins and routine equipment to 
+create the first mock operating room, initially dedicated to 
+Continuing Medical Education and then to Initial Medical 
+Training in 1992 [5] [6].
+
+Since the late 1990s, and thanks to the development of 
+computer and videogames, the supply of training in medical 
+simulation has continued to grow with the appearance 
+including task simulators and the creation of virtual 
+environments [8].
+
+Today, a plethora of techniques in simulation exist, some 
+allow the acquisition of basic knowledge or high-level 
+knowledge, and others focus on the transmission of knowhow.
+
+
+Reference [9] distinguishes between several levels of 
+simulation ranging from Low-Fidelity to High-Fidelity, 
+depending on the complexity of the equipment used and the 
+possible interaction of the trainers with the participant.
+
+Among these High-Fidelity techniques, Virtual Reality is 
+a technique based on the use of a set of devices that can 
+digitally simulate an environment. According to the 
+technologies used, it allows the user to feel a virtual universe 
+through its different senses: the sight (the mostofen), the 
+touch, the hearing and/or the smell [10], by using a Virtual 
+Reality headset.
+
+The first Virtual Reality headsets appeared in the late 
+1950s in cinema, then in the early 1970s, they were used in
+
+978-1-7281-4341 -5/20/$31.00 c2020 IEEE
+
+
+flight simulators and finally, from the late 1990s in games 
+[11].
+
+In the 2010s, other sectors have begun to benefit from 
+this technology, such as education and training, particularly 
+in health sciences [11] [12] [13].
+
+Indeed, in the medical field, users are very impressed 
+with the Virtual Reality experience, since this technology 
+improves traditional teaching methods. Indeed, medical care 
+training using Virtual Reality allows users to interact as if 
+they were immersed in the real scene [14] [15]. In this way, 
+Virtual Reality can reduce the risk of technical errors in 
+health care due to negligence. In addition, using Virtual 
+Reality to build virtual organs or tissues can help doctors in 
+their work, enable doctors and nurses to communicate more 
+effectively with their patients, improve doctors' ability to 
+diagnose patients, provide information about their disease 
+and the progress of surgery [16]. Furthermore, this 
+technology has the advantage of being relatively inexpensive 
+and non-invasive. Finally, Virtual Reality training in the 
+treatment of disease and technical training will not pose any 
+real risk to the patient [17].
+
+It is in this particular context that the Cheikh Zaid 
+Foundation¡¦s Medical Simulation Center examined the 
+opportunity of integrating Virtual Reality into the medical 
+simulation curriculum. Indeed, by integrating Virtual Reality 
+in the world of medical simulation [18], the latter will allow 
+a high level of practice and benefit future doctors and 
+medical executives.
+
+This paper presents an implementation solution of an 
+operating room as a Virtual Reality unit. The choice was on 
+the operating room for the following reasons:
+
+¡E When students attend a procedure, they can distract 
+surgical teams focused on a complex task
+
+¡E Operating rooms are sometimes too small to 
+accommodate students who need to attend procedures to 
+learn.
+
+¡E The risk of infection for patients is much greater 
+when additional students are present in the operating room.
+
+The first phase of this project consists in the creation of a 
+2D plan, integrating the plan measurements according to the 
+required standards as well as the equipment, the instruments 
+and the technical installations of the operating room, then the 
+modeling of this environment in 3D. The second phase will 
+be dedicated to programming including creation of a 
+scenario, choice of a dialogue system, programming of 
+gestures and objects and finally interaction in real time.
+
+The rest of paper is organized as follows. Section II 
+depicts materials and methods. Section III is devoted to the 
+results and discussion. Finally, conclusions are mentioned in 
+Section IV.
+
+II. Tools and Methods
+
+A. Environmental diagram
+
+First of all, a 2D plan is created using the AUToCAD 
+software. The choice of this software was based on the fact 
+that it can be used as an architectural planning tool since it 
+comes with a user-interface with built-in design lay-outs. The 
+lay-outs contain numerous templates specially designed for 
+architectural planning and building construction. Moreover 
+its analytical tools can analyse the components of the 
+building to troubleshoot stress and load levels of building 
+supports. Furthermore, this software enables architects to 
+design, plan, execute and analyse the strength of a building, 
+at design stage level and in different fields such as 
+medecine. AutoCAD can also be used either as an 
+engineering drafting tool to draw accurate 2D drawings for 
+any engineering domain and to render to 3D models to help 
+in visualization of the end product ; or as a graphic design 
+tool to enable users to plan and map out spaces and take 
+advantage of the space available [19]. It can be used 
+simultaneously with 3D Max and various other application 
+softwares including animation tools. This step consists of 
+integrating the measures of the plan according to the 
+standards required for the creation of an operating theater. 
+Then, the equipments, instruments and technical installations 
+must be integrated in order to obtain a primary design plan. 
+The environment modeling is done through the 2D plan 
+using the ARCHICAD software.
+
+The implementation of the 2D plan in 3D modeling is 
+done by a software. This software enable creating the desired 
+environment in 3D using an integrated library which contains 
+the various elements in need (For example: walls, floor, 
+ceilings ... etc.). Once the environment is composed, the 
+equipment, objects and instruments are modeled necessary in 
+3D in order to infuse them in the environment using the 3DS 
+MAX software. This software supports a huge number of 
+tools that are easily available for modeling, it is user-friendly 
+in modeling and complex animation, and does not only 
+support powerful and multiple tools for animation but also 
+the Material Editor that allows the user to create and edit 
+materials and maps in their scenes [20].
+
+The 3DS Max software will not be used directly by the 
+Medical Simulation Center¡¦s professors, but it will only be 
+used for the 3D environment creation.
+
+The followed approach is presented by the algorithm of 
+Fig. 1.
+
+
+III. RESULTS AND DISCUSSION
+
+A. First stage: Autocad Software
+
+It is at this level that the essential characteristics of the 
+operating theater can be identified, such as: Dimensions, 
+structures, required installations, locations of equipment, etc. 
+It should be noted that the stages of modeling depend on 
+each others, this is why the specification of what the 
+operating room must contain, must be done from the start 
+whether on the technical aspect (measurements, plans, etc.) 
+or functional aspect (equipment, installations, etc.)
+
+To make a 2D plan, the integrate of a nomenclature is 
+important to make the plan more readable and 
+understandable. And since this work consists of a light plan 
+which does not require a lot of nomenclature, a color code 
+was used for each of the components: red for the doors, 
+green for polyvinylchloride and blue for exhaust air, as 
+seeing in Fig. 2. in order to ensure an easy understanding of 
+the plan.
+
+Fig. 2. The 2D environment
+
+The installation of the equipments furnishing the 
+operating room as shown in Fig. 3. (Operative lighting, 
+operating table, surgeon arm, electrosurgical unit, anesthesia 
+breathing machine, monitors, resuscitation breathers, 
+defibrillator, endoscope, aspirator, surgical instruments, 
+mayo table, instruments table, emergency cart, waste bins, 
+medical counter [21], mobile chair with backrest, medical 
+fluids, negatoscopes.) must first be created in 2D. This 
+allows to precise positioning of each object relative to the 
+surface of the space. 2D modeling of objects, equipment, and 
+the lighting required in the operating room is done after 
+modeling the environment to facilitate installation of the 3D 
+plan.
+
+Fig. 1.Flowchart of the environmental diagram realization
+
+
+B. Second stage: Archicad Software
+
+Two-dimensional (2D) drawing has several limitations; it 
+does not allow defining complex surfaces and volumes. 
+Since the main objective is to obtain an operating theater in 
+3D, Using the previous 2D plan, the walls, doors and floor 
+can be diagramed in 3D [22].
+
+The elimination of right angles is done by modeling 
+crossed walls as seeing in Fig. 4. This provides complete 
+modeling of the operating room.
+
+C. Third stage: 3ds Max Software
+
+This modeling consists in integrating the 3D 
+environment; that had been modeled in the previous step, 
+using the software interface. The latter is the tool used to 
+model instruments, objects..., in 3D. The modeling of 
+objects and equipment is carried out using real photos of 
+medical equipments and software, they are then integrated 
+into the environment. As shown in Fig. 6.
+
+Fig.6. 3D object modeling
+
+Fig.3.Inserted objects
+
+Fig. 4.3D modeling
+
+At this level, 3D environment can be considered as 
+completed as seeing in Fig. 5. The figures illustrate a front- 
+top-left view of the full version of operating theater. Note 
+that so far only the 3D sketch of the operating room was 
+created. This will be used to set up the equipments to have a 
+well-functioning environment.
+
+The figure illustrate the final version of the operating 
+room in 3D as shown in Fig. 7. These are seen from the front 
+which allows the user to differentiate and visualize each 
+medical device individually. The equipment must be 
+positioned in a structured way that makes the operating room 
+a functional space that enable the user doing an immersion 
+close to reality [23]. This version can be modified according 
+to the equipments and material that the user need [24], the 
+ultimate goal being to make this room an environment that 
+meets the educational needs of the user.
+
+Fig.7. The 3D operating room
+
+Fig. 5. The 3D environment
+
+
+D. Fourth Stage : Unity Software
+
+The Unity software is used to develop and build a virtual 
+reality solution using the plugins and packages that are 
+already integrated in the software. The importation of the 3D 
+environment, which was created in the previous step, is done 
+by using an import/export function that allows users to 
+integrate this environment into the UNITY work window. 
+The virtual headset will connected to the software using the 
+"STEAMVR Asset".
+
+a) Human hands programming:
+
+In order to allow an easy interaction with the objects and 
+the different gestures and programmed actions, the more 
+practical way is to integrate a model of human hands 
+replacing the control levers although their color. In this case, 
+the white color has been chosen to represent the medical 
+gloves, as shown in Fig. 8.
+
+c) Teleportation:
+
+Finally, the teleportation allows to move around in space 
+in case the drawn area of the helmet is insufficient. 
+Teleportation is then used to change the view and positioning 
+without having to move in real life, as shown in Fig. 10.
+
+Fig. 8. Programming the hands
+
+b) Command programming:
+
+The first programmed command is the one that enable 
+users to take in their hands and let go of the different objects 
+in the environment, such as syringes, scissors, tweezers, etc. 
+as shown in Fig. 9. It is very important to program this 
+command first, because it is the most used in this case 
+because we want to present an operating room.
+
+Fig. 10. The Teleportation
+
+IV. CONCLUSIONS
+
+The present paper depicted with the implementation of a 
+3D modelisation of an operating room, which is certainly 
+very useful for medical simulation training. The presented 
+solutions are of great use in the medical field, more 
+specifically in surgery. They are all intended to help learners 
+practice, improve their knowledge through practical activity 
+sessions in a virtual environment. Interesting prospects are 
+envisaged. The system can be more cooperative with the 
+integration of a virtual reality multiplayer mode. 
+Another perspective would be to make the solution 
+customizable to allow health professionals and teachers to 
+share their knowledge in the medical sector. 
+Furthermore this will enable them to set up their own 
+experiences in different hospital departments.
+
+The two approaches 2D and 3D (and more precisely that 
+of 3D) gave a vision in advance of what the virtual 
+environment is going to look like. The combination of these 
+two approaches with the VR approach, which are projected 
+one on the other, enables to present these results and this 
+achievement. Virtual reality is a complex aspect that brings 
+together several approaches leading to a single result that 
+itself offers several options to make an environment adapted 
+to the wishes and expectations. It has many advantages for 
+the learning of certain techniques, and offers new solutions 
+to the whole simulation problems of command/control and 
+communication. It is an improvement of traditional 
+simulation techniques.
+
+Fig. 9. Command Programming
+
+
+References
+
+[1] M. A. Centeno, ¡§An Introduction to Simulation Modeling,¡¨ in 
+Proceedings of the 1996 Winter Simulation Conference, pp. 15-22, 
+December 1996.
+
+[2] R. Amalberti, ¡§Gestion des risques et facteurs humains - Role de la 
+simulation,¡¨ in La simulation en sante de la theorie a la pratique, 
+Springer, Paris, 2013, pp.3-14.
+
+[3] J.C. Granry and M.C. Moll, Rapport de mission Etat de l¡¦art (national 
+et international) en matiere de pratiques de simulation dans le 
+domaine de la sante, January 2012.
+
+[4] M.E. Moran, ¡§Enlightenment via simulation:¡§crone-ology's¡¨ first 
+woman,¡¨ Journal of Endourology, vol. 24(1), pp. 5-8, January 2010.
+
+[5] K.R. Rosen, ¡§The history of medical simulation,¡¨ Journal of of 
+Critical Care, vol. 23(2), pp. 157-166,June 2008.
+
+[6] J.B. Cooper and V.R. Taqueti, ¡§A brief history of the development 
+of mannequin simulators for clinical education and training,¡¨ 
+Postgraduate medical journal, vol. 84, pp. 563-570,December 2008.
+
+[7] S. Abrahamson, J.S. Denson and R.M. Wolf, ¡§Effectiveness of a 
+simulator in training anesthesiology residents,¡¨ British Medecine 
+Journal Quality & Safety, vol. 13, pp. 395-399, October 2004.
+
+[8] G. Riva, ¡§Applications of Virtual Environments in Medicine,¡¨ 
+Methods of Information in Medicine, vol. 42(5), pp. 524-534, 
+February 2003.
+
+[9] G. Alinier, ¡§A typology of educationally focused medical simulation 
+tools,¡¨ Medical teacher, vol. 29(8), pp. 243-250, November 2007.
+
+[10] P. Fuchs, Les interfaces de la realite virtuelle. Les Presses de l'Ecole 
+des Mines de Paris, 1996.
+
+[11] C. Anthes, R. Garcia Hernandez, M. Wiedemann and D. 
+Kranzlmuller, ¡§State of the Art of Virtual Reality Technologies,¡¨ 
+IEEE Aerospace Conference, March 2016 [2016 IEEE Aerospace 
+Conference, At Big Sky, Montana, United States].
+
+[12] N. Mohamudally, State of the Art Virtual Reality and Augmented 
+Reality Knowhow, ISBN: 978-1-78923-163-2, 2018.
+
+[13] R. Giuseppe, B.K. Wiederhold,F. Mantovani, Neuroscience of Virtual 
+Reality: From Virtual Exposure to Embodied Medicine,January 2019, 
+Cyberpsychology, Behavior, and Social Networking 22(1):82-96, 
+DOI: 10.1089/cyber.2017.29099.gri.
+
+[14] M.C. Hsieh, Y.H. Lin, ¡§VR and AR Applications in Medical Practice 
+and Education,¡¨ The journal of nursing, vol. 64(6), pp. 12 - 18, 
+December 2017.
+
+[15] G.S. Ruthenbeck, K.J. Reynolds, ¡§Virtual reality for medical training: 
+The state-of-the-art,¡¨ Journal of Simulation, vol. 9(1), pp. 16 - 26, 
+2015.
+
+[16] T. Ikonen, T. Antikainen, M. Silvennoinen, J. Isojarvi, E. Makinen 
+and T. Scheinin, ¡§Virtual reality simulator training of laparoscopic 
+cholecystectomies - A systematic review,¡¨ Scandinavian Journal of 
+Surgery, vol. 101(1), pp. 5 - 12, 2012.
+
+[17] C. Moro, Z. Stromberga, A. Raikos, A. Stirling, ¡§The effectiveness of 
+virtual and augmented reality in health sciences and medical 
+anatomy,¡¨ Anatomical Sciences Education, vol. 10(6), pp. 549 - 559, 
+November 2017.
+
+[18] I.Raiche, Simulation par modeles et realite virtuelle des gestes 
+techniques. In: Boet S., Savoldelli G., Granry JC. (eds) La simulation 
+en sante De la theorie a la pratique. Springer, (2013) Paris.
+
+[19] V. M. Jayathilakel, A. B. Shantha, ¡§Comparative Study Of Cad 
+Software Use For Architectural Designs,¡¨ International Research 
+Symposium on Engineering Advancements 2015 (RSEA 2015) 
+SAiTm, Malabe, Sri Lanka
+
+[20] Iftikhar B. Abbasov, ¡§Fundamentals of 3D modeling in the graphics 
+system 3ds Max,¡¨ 2018: Training Manual. _ 2017. 141p, publisher: 
+DMK PressISBN: 978-5-97060-516-5 March 2017.
+
+[21] R. Giuseppe, B.K. Wiederhold, A.A. Gaggioli, ¡§Brain and Virtual 
+Reality: What Do they Have in Common and How to Exploit their 
+Potential,¡¨ Annual Review of Cyber Therapy and Telemedicine,April 
+2019
+
+[22] M. Beyyoudh, M.K. Idrissi, S. Bennani (2020),¡§A New Approach of 
+Integrating Serious Games in Intelligent Tutoring Systems. In: 
+Serrhini M., Silva C., Aljahdali S. (eds) Innovation in Information 
+Systems and Technologies to Support Learning Research,¡¨ EMENA- 
+ISTL 2019. Learning and Analytics in Intelligent Systems, vol 7. 
+Springer, 2019, Cham.
+
+[23] S. Ventura, R.M. Banos, C. Botella, Virtual and Augmented Reality: 
+New Frontiers for Clinical Psychology, DOI: 
+10.5772/intechopen.74344, 2018.
+
+[24] D.B. Douglas, D. Venets, C. Wilke, D. Gibson, L. Liotta, E. Petricoin, 
+B. Beck, R.t Douglas,Diagnostic Radiology, DOI: 
+10.5772/intechopen.74317, 2018.
+
+

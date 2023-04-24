@@ -1,0 +1,1811 @@
+Heliyon 
+7 
+(2021) 
+e06254 
+
+
+Contents lists available at ScienceDirect 
+
+Heliyon 
+journal homepage: www.cell.com/heliyon 
+
+Journal logo
+Research article 
+
+Gami.cation and .ipped learning and their in.uence on aspects related to the teaching-learning process 
+Ma Elena Parra-Gonzalez a, Jess Lopez-Belmonte b,*, Adrian Segura-Robles a, Antonio-Jose Moreno-Guerrero b 
+
+a Department of Research Methods and Diagnosis in Education, University of Granada, Spain b Department of Didactics and School Organization, University of Granada, Spain 
+
+ARTICLE INFO ABSTRACT 
+Keywords: 
+Active methodologies Teaching innovation Academic improvements Physical education 
+
+Nowadays, education is going through a moment of methodological transformation. Two of the active method-ologies with excellent projection within the educational .eld are gami.cation and .ipped learning. This study analyzed the methodological contrast between gami.cation and .ipped learning in the subject of Physical Ed-ucation in three different educational stages to determine the most in.uential methodology in the training pro-cess. Research design was a quasi-experimental research with a sample of 356 students in Spain. Data collection took place with a questionnaire. The results show that gami.cation as a teaching and learning methodology is better valued at an early stage, while the more aged participants better value the .ipped learning methodology. Both methodologies have shown great potential in the development of educational processes in Physical Edu-cation. Gami.cation indeed seems to have positive effects on students from the lower stages. On the other hand, .ipped learning produces positive effects on the group stages, pre-university students. 
+1. Introduction 
+Teachers are responsible for selecting the teaching methodologies they use in their classes. The role that these professionals play in the learning process is essential, especially if some of these methodologies use technology (Gil-Flores 
+et 
+al., 
+2017). Today's active methodologies have broken into the educational system with signi.cant impact (Ber-
+nal-Gonzalez 
+and 
+Martinez-Due~
+nas, 
+2017). According to the methodol-ogy, this type of design provides students with content in a motivating way, where students have to actively build their own learning. This provokes meaningful learning that is remembered and excites the stu-dents, producing real learning (Ayen, 
+2017). All of this is impossible if teachers do not have suf.cient training and mastery of the methodology they want to use (Oliveira 
+et 
+al., 
+2019). 
+Beyond motivation, the use of this type of methodology in the classroom has different bene.ts, such as the development of creative thinking (Bezanilla 
+et 
+al., 
+2019), fostering interactions between students (Flores-Fonseca 
+and 
+Gomez, 
+2017), cooperation development (Sei-
+n-Echaluce 
+et 
+al., 
+2019), or increased student engagement with their learning process (Montrezor, 
+2016). Within this scenario, the most 
+
+* Corresponding author. E-mail address: jesuslopez@ugr.es 
+(J. Lopez-Belmonte). 
+commonly used active methodologies nowadays are gami.cation and .ipped learning (Sein-Echaluce 
+et 
+al., 
+2019). 
+Gami.cation applies different learning elements, such as game de-signs or structures (Attali 
+and 
+Arieli-Attali, 
+2015). This methodology is based on the fact that learning and retaining information through different activities increases when students have fun during their development (Molina 
+et 
+al., 
+2017). As an active methodology, gami.-cation has shown to foster a high incrementation in the motivation and development of cooperative work (Lopez-Quintero, 
+Pontes-Pedrajas 
+and 
+Varo-Martinez, 
+2019), so necessary in the teaching-learning processes, for both the students and the teachers in their teaching work (Lee 
+and 
+Hammer, 
+2011). These elements, together with the development of a classroom climate (Perez-Lopez 
+and 
+Rivera, 
+2017), are part of Physical Education classes, according to current trends (Ferriz-Valero 
+et 
+al., 
+2020; Lopez-Belmonte 
+et 
+al., 
+2020). 
+This issue is relevant and is re.ected in current studies, which show the positive effects of gami.ed experiences within the .eld of physical education (Gonzalez 
+et 
+al., 
+2018; Quintas 
+et 
+al., 
+2020), whose application covers a wide range of possibilities. Gami.cation can be developed, utilizing various technological resources or didactic resources. This 
+https://doi.org/10.1016/j.heliyon.2021.e06254 
+
+
+Received 6 August 2020; Received in revised form 17 October 2020; Accepted 6 February 2021 
+2405-8440/c 2021 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). 
+M.E. Parra-Gonzalez et al. Heliyon 7 (2021) e06254 
+means that the range of gami.cation possibilities is broad and has various application forms (White 
+Shellenbarger, 
+2018). 
+On the other hand, .ipped learning consists of a mixed-method, which alternates digital and face-to-face training as indicated by Lee 
+et 
+al. 
+(2017), where the teacher and student roles are exchanged 
+(Mor-
+tensen 
+and 
+Nicholson, 
+2015). Through technology (Froehlich, 
+2018), teachers can create audiovisual material that students have to watch before the lesson (Turan 
+and 
+Akdag-Cimen, 
+2020), and afterward, in class, they work on the content from a different perspective than a traditional one (Long 
+et 
+al., 
+2017). 
+Flipped learning methodology can ease the teacher's work because the student can plan and self-regulate their learning (Chaves-Barboza 
+et 
+al., 
+2016). Due to this, the teacher can allocate more time in the classroom to guide the student, resolve doubts, and attend to the stu-dents' educational needs in a more individualized way. This is favored as explaining the content has been carried out in other learning spaces beforehand (Santiago 
+and 
+Bergmann, 
+2018). Therefore, this type of active methodology allows the student to work autonomously and actively during their learning (Molina-Aventosa 
+et 
+al., 
+2015). It also improves all of the associated educational processes, such as motivation, time in class, or the collaboration between students (Awidi 
+and 
+Paynter, 
+2019; Moreno-Guerrero 
+et 
+al., 
+2020). This set of possibilities makes the .ipped classroom a methodology with great potential for physical edu-cation teachers (Sargent 
+and 
+Casey, 
+2020). 
+These new methodological trends have increased innovative practice in Physical Education, as it has been recommended by several studies on the matter, where the different academic indicators analyzed are favored (Wyant 
+and 
+Baek, 
+2019). For this reason, in relation to innovation, Physical Education is a subject that is being studied due to the im-provements and potential it produces in student's formative development. 
+There are also studies where the teaching and learning processes have been developed and applied using a mix of the .ipped learning method and gami.cation (Huang 
+and 
+Guo, 
+2019; Kwan 
+and 
+Foon, 
+2020; Segur-
+a-Robles 
+et 
+al., 
+2020). These studies agree that those students who have received a game-based teaching method utilizing invested learning improved their academic performance, besides obtaining better bene.ts in several dimensions of studies, such as motivation, the interaction be-tween members of the pedagogical act, and problem-solving. 
+2. Study objective and research questions 
+Gami.cation and .ipped learning and, what has been exposed in the scienti.c literature of recent years, have proven to be adequate instruc-tional mechanisms to improve teaching and learning environments. In this sense, the scienti.c community that has developed studies on both training methodologies has revealed how these training methods, from their idiosyncrasy and their way of imparting and working on the con-tents, have turned out to be successful and in.uential in improving learning. An improvement occurs in different academic processes and factors, such as attitudinal, psychosocial, and student performance (Gomez-Carrasco 
+et 
+al., 
+2020; Parra-Gonzalez 
+et 
+al., 
+2020). 
+This study aimed to make a methodological contrast between gami-.cation and .ipped learning in the subject of Physical Education in three different educational stages (Primary Education, Secondary Education, and Baccalaureate), with the main aim of determining the most inci-dental training methodologies in the teaching and learning process. This general objective was broken down into different RQ (Research Questions): 
+RQ1: Does the training methodology in.uence the student's motivation? RQ2: Does the training methodology in.uence the interaction be-tween the students and the teacher? RQ3: Does the training methodology used in the interaction with the students in.uence the didactic contents? 
+RQ4: Does the training methodology in.uence the interaction be-tween students? RQ5: Does the training methodology in.uence the autonomy of the students? RQ6: Does the training methodology aid in the collaboration of the student's in.uence? RQ7: Does the training methodology deepen the level of the content in.uence? RQ8: Does the training methodology aid with the problem-solving of the student's in.uence? RQ9: Does the training methodology have an in.uence on class-time with the students? RQ10: Does the training methodology in.uence the ratings obtained by the students? 
+3. Materials and methods 
+
+3.1. Research design 
+The study has been developed using a quantitative methodology through a quasi-experimental research design, based on the experts¡¦ research 
+premises 
+in 
+this 
+type 
+of 
+study 
+(Hernandez-Sampieri 
+et 
+al., 
+2014; Privitera, 
+2020). This kind of design involved obtaining a pre-test mea-sure of prior interests, followed by a post-test measure after treatment occurs (Knapp, 
+2016; Salkind, 
+2010). 
+The nature of this type of research required the articulation of two study groups (control and experimental). The control group (CG) carried out a formative action through gami.cation, while the experimental group (EG) used .ipped learning for this purpose (Figure 
+1). Thus, two study variables were established, an independent one that focused on the type of methodology used in students' training and a dependent variable that focused on the impact obtained in the different dimensions estab-lished in the research. When the methodological experimentation commenced, only post-test measurement was obtained to the end of the instruction. The selected groups were homogeneous regarding the sex of the students and the number of students. The two teachers who partici-pated in the experience have training in teaching innovation and are specialists in the methodology they carry out. 
+Similarly, other published studies have been taken as a reference when carrying out a research process validated by the scienti.c com-munity (Corujo-Velez, 
+Gomez 
+del 
+Castillo 
+and 
+Merla-Gonzalez, 
+2020; Marin-Marin 
+et 
+al., 
+2020). 
+
+3.2. Participants 
+The sample obtained in this study was 356 Spanish students, coming from different educational stages (fourth level of Primary Education, aged between 9 and 10 . 100; .rst level of Secondary Education, aged between 12 and 13 . 118; .rst level of Baccalaureate, aged between 16 and 17 . 138). Four classes were chosen from both Primary and Sec-ondary Education and from Baccalaureate, .ve classes were chosen. These students, as a whole, made up the groups presented in Table 
+1. Intentional sampling was used to select participants, justi.ed in the ease of access to the sample, and collaboration of the teachers who carried out the training phase. 
+Although this type of sampling may not represent large populations, it is useful to provide the authors with previous results (Etikan, 
+2016). The sample size was adequate for this type of study in the .eld of education, as it is exposed in other reported studies, and does not suppose a limi-tation for its approach (Chou 
+and 
+Feng, 
+2019). 
+The sample is comprised of men (42.98%) and women (57.02%), with an average age of between 13 and 14 years (SD . 3.21). Two groups of students was created (Experimental gropup and control group), and the methodological treatment (gami.cation and .ipped learning) was determined randomly; the control group was associated with gami.ca-tion and the experimental group with .ipped learning. 
+
+M.E. Parra-Gonzalez et al. Heliyon 7 (2021) e06254 
+Image of Figure 1
+Figure 1. Research design. 
+Table 1. Two group used. 
+
+Group n Composition Pretest Treatment Post-test 
+1-Control 50 Natural -G O1 2-Experimental 50 Natural -FL O2 3-Control 59 Natural -G O3 
+
+Note: Gami.cation (G); Flipped learning (FL). 
+
+3.3. Study dimensions 
+To better understand this study's results, different dimensions were established in the research, which has been analyzed and presented (Santiago 
+and 
+Bergmann, 
+2018). These dimensions were selected from studies presented in this work, and methodological contrasts were car-ried out where the approaches, such as inverted learning and gami.ca-tion, have intervened: 
+Socio-Educational: Caters socio educational variables as age, course, teaching methodology. Motivation: Denotes the motivation levels from the students during the formative action. Interactions: Denotes the students' interactions and may be of different types (with the teacher, with the content, and between the different students). Autonomy: Addresses the level of autonomy developed by the stu-dents during the instructional process. Collaboration: Addresses the level of collaboration and teamwork carried out by the students during the teaching and learning phase. Deepening In The Contents: Attends to the level of treatment and the projection of the content in the teaching and learning process. Problem-Solving: Attends to the students' decisive competence when faced with different problems in the training practice. Class Time: Attends to the time used by the students during the development of the training action. Ratings: Attends to the ratings reached by the students in the different tasks and assessment tests. Teacher Ratings: Attends to the teacher's ratings to compare with the ratings reported by the student. 
+
+3.4. Instrument 
+Data collection was carried out through an ad hoc questionnaire. This questionnaire was derived from other instruments that report on the matter's state (Discroll, 
+2012; Santiago 
+and 
+Bergmann, 
+2018). Eight ex-perts group in innovative methodologies analyzed the questionnaire through Delphi method. These judges offered feedback to optimize the questionnaire and revealed a positive opinion of it (M . 4.82; SD . 0.36; min . 1; max . 6). All of these observations were analyzed using the Kappa of Fleiss (K) and W of Kendall (W) statistics, which revealed agreement and adequacy of the guidelines and comments from the spe-cialists (K . 0.84; W . 0.87). The instrument was then subjected to quantitative validation by exploratory factor analysis with the principal component's method. The sphericity Bartlett's test revealed dependency between the study variables (2148.25; p < 0.001), and the KMO (0.83) test re.ected adequate adequacy of the sample. Furthermore, the designed questionnaire turned out to be reliable after the tests were carried out (Cronbach's alpha . 0.86; Composite reliability . 0.84; Average variance extracted . 0.82). Because the sample exceeded 50 participants, normality was assumed (Ghasemi 
+&and 
+Zahediasl, 
+2012; Pallant, 
+2003). 
+
+3.5. Procedure 
+In this study, as a treatment to determine the previously discussed models¡¦ effectiveness, a didactic unit of eight sessions was developed. This unit was carried out in the subject of Physical Education, as this subject is assuming a fundamental role for the students' integral devel-opment (Sargent 
+and 
+Casey, 
+2020; Wyant 
+and 
+Baek, 
+2019). In this sense, Physical Education has undergone a methodological change in recent 
+
+M.E. Parra-Gonzalez et al. Heliyon 7 (2021) e06254 
+years. This is veri.ed by the different active methodologies that are being carried out to deliver the content (Hinojo-Lucena 
+et 
+al., 
+2018). In turn, this subject is leaving behind traditional methods characterized by in-dividual and purely physical work (Segura-Robles 
+et 
+al., 
+2020; Xiang 
+et 
+al., 
+2020). 
+Speci.cally, the didactic unit carried out encompassed corporal expression contents (the body, the movement, the rhythm, the dance, choreographic compositions). Regarding the activities carried out, each control group performed collaborative games based on problem-solving through different escape room-type dynamics. 
+This was based on a story told by a teacher in order to involve the students. This story had a series of challenges and missions that needed to be carried out to achieve badges, which would allow them to pass through various phases of the game and reach the .nal test. Passing the .nal test would mean reaching the didactic objectives formulated in the unit and, therefore, winning the challenge. 
+On the other hand, the experimental group's training activities had a hybrid character based on .ipped learning. This was developed both in the digital environment, through a content management platform, and in-person in the educational center's different learning spaces. Previ-ously, the students viewed the audiovisual material provided by the teacher. This material contained dances with different rhythms and musical styles. Then, the students carried out the activities and dynamics already shown in the videos in the classroom. In both cases, the teacher's role in question was focused on guiding and orienting the students during the different training tasks carried out and providing timely feedback that helped facilitate the students learning process. All of this was thanks to the autonomous work developed by the students. In the case of gami.cation, by solving problems by themselves. In .ipped learning, thanks to the visualization of the contents before the face-to-face session, it allowed the students to come to class with familiar contents. Once the didactic unit was completed, the students .lled out the questionnaire, and the collected data was then statistically analyzed to achieve and answer both the objective formulated in the research and the different questions derived. 
+
+3.6. Ethical considerations 
+Within this research, all of the principles and criteria were established using the Code of Good Research Practices, as established by the Decla-ration of Helsinki. Similarly, all participants were aware of the study objectives, informed consent was obtained, and their anonymity was preserved. Likewise, a regional Ethics Committee (BDS-ABL-20) made up of researchers external to the research approved the study. 
+
+3.7. Data analysis 
+For statistical analysis, SPSS (v.25) package was utilized. This tool is the most used software in Social Sciences, which provides a good inter-face to calculate some basic stadistics as Mean (M), standard deviation (SD), skewness (Skw) and kurtosis (Kme) to know the distribution of a data matrix. Student-t test (tn1 t n2-2), test was carried out to compare means between experimental and control group. To detect size of effect of signi.cant results Cohen's d was applied. A cut-off standar of p < 0.05 was used to stablish signi.cate differences. 
+4. Results 
+On the basis of the descriptive analysis carried out, it can be deter-mined that there is a disparity in the responses, depending on the stage of development, and showing in all dimensions a normal distribution of response (J£á
+oreskog 
+and 
+Moustaki, 
+2001). In Primary Education, the re-sults obtained by pupils within the control group showed higher values for most dimensions than those obtained by pupils within the experi-mental group. Speci.cally, the best-valued dimensions, especially in the control group, are those of motivation, student-student, autonomy, res-olutions, and ratings, where they exceeded in all cases the 3 points of average. Although the ratings are medium-high in the rest of the di-mensions, they do not exceed the 3 points of average, both in the control and experimental groups. The standard deviation shows an equal response distribution by the students in all dimensions of the research. Kurtosis in the control group is variable since, in most dimensions, a platykurtic distribution is shown, except in autonomy and ratings, where the distribution is leptokurtic, and in collaboration and motivation, where the distribution is mesokurtic. In experimental group, kurtosis is platykurtic(Table 
+2). 
+In the Secondary Education students, the means presented were, in general, slightly lower than those shown by the Primary Education stu-dents. In this case, the evaluations' mean is located in both the experi-mental and control groups, over 2.5. The difference is marked by the control group's dimensions, speci.cally motivation, student-student, autonomy, collaboration, and resolution, and where they are located, approximately, in the mean line of 3. Kurtosis, in all dimensions of the study, is platykurtic (Table 
+3). 
+In the Baccalaureate stage, the response trend changes substantially compared to the secondary and primary education stages. In this case, the responses offered by the control group were lower, in most dimensions, than those given by the experimental group. The mean was approxi-mately 2.7 points in the control group, while in the experimental group, the mean was above 3.1 points, except in resolution and teacher-ratings, whose mean was below 3. Kurtosis varies substantially between the CG and the EG. In the control group, the kurtosis is platykurtic. The kurtosis is mainly leptokurtic in the experimental group, except in motivation, resolution, ratings, and teacher-ratings, which are platykurtic, and in teacher-student, student-content, student-student, and class-time, which are mesokurtic (Table 
+4). 
+Comparing the means between the stages analyzed shows how the measures of the control groups of the stages of Secondary and Primary Education are higher than those given by the experimental group. This fact is alternated in the High School stage, where the experimental group re.ected averages higher than those of the control group (Figures 2, 3, and 4). 
+According to the results obtained from these tests, the stage where there were differences that are more signi.cant was the Baccalaureate stage, followed by the Secondary Education stage and .nally, the Primary Education stage. Regarding the Primary Education stage, where the mean differences were positive, the control group showed higher scores than the EG, the most signi.cant dimensions were motivation, student-student, autonomy, collaboration, resolution, and ratings. In the Sec-ondary Education stage, something similar to the Primary Education stage occurs, although in this case, the differences in means were smaller, and there were also negative differences in the two dimensions, teacher-student, and student-content. The most signi.cant dimensions were the same as those obtained in Primary Education, except for the rating dimension, which shows no signi.cant differences at this education stage. 
+In the Baccalaureate stage, the results turned around concerning the other two stages, having negative differences in all dimensions; that is, the EG showed higher values than those shown by the CG. In this case, all of the dimensions turned out to be signi.cant, except for resolution and teacher-ratings. In those cases where the difference turned out to be signi.cant, the force of association is negative in the stages of Primary and Secondary Education. This indicates that the force is indirectly proportional; that is, the control group showed a higher force than the experimental group. In the High School stage, the force of association was positive. In all cases, the partnership strength was medium-low. The magnitude of the effect was low in all cases, with even negative values or absolute zeros (Table 
+5). Negative values are directly related to non-signi.cant values and have no direct interpre-tation. Positive values close to zero indicate that the strength of asso-ciation is low. 
+
+M.E. Parra-Gonzalez et al. Heliyon 7 (2021) e06254 
+Table 2. Basic statistics of research in CG and EG of Primary Education.  
+Dimensions  Likert Scale n (%)  Parameters  
+None  Few  Enough  Completely  M  SD  Skw  Kme  
+Control group  Motivation  2(4)  8(16)  16(32)  24(48)  3.24  .870  -.884  -.085  
+Teacher-student  5(10)  14(28)  16(32)  15(30)  2.82  .983  -.293  -.965  
+Student-content  3(6)  14(28)  17(34)  16(32)  2.92  .922  -.324  -.879  
+Student-student  3(6)  8(16)  18(36)  21(42)  3.14  .904  -.805  -.152  
+Autonomy  2(4)  7(14)  21(42)  20(40)  3.18  .825  -.806  .178  
+Collaboration  3(6)  7(14)  17(34)  23(40)  3.20  .904  -.934  .069  
+Deepening  2(4)  12(24)  24(48)  12(24)  2.92  .804  -.342  -.317  
+Resolution  1(2)  8(16)  14(28)  27(54)  3.34  .823  -.946  -.127  
+
+
+a 
+
+p < 0.05 was used (None: 1¡V4.9; Few: 5¡V5.9; Enough: 6¡V8.9; Completely: 9¡V10). 
+Table 3. Basic statistics of research dimensions in CG and EG of Secondary Education.  
+Dimensions  Likert Scale n (%)  Parameters  
+None  Few  Enough  Completely  M  SD  Skw  Kme  
+Control group  Motivation  3(5.1)  19(32.2)  20(33.9)  17(28.8)  2.86  .899  -.166  -.966  
+Teacher-student  7(11.9)  21(35.6)  24(40.7)  7(11.9)  2.53  .858  -.081  -.559  
+Student-content  5(8.5)  24(40.7)  21(35.6)  9(15.3)  2.58  .855  .097  -.616  
+Student-student  3(5.1)  17(28.8)  19(32.2)  20(33.9)  2.95  .918  -.313  -.965  
+Autonomy  3(5.1)  15(5.4)  20(33.9)  21(35.6)  3.00  .910  -.427  -.817  
+Collaboration  3(5.1)  13(22)  22(37.7)  21(35.6)  3.03  .890  -.524  -.586  
+Deepening  6(10.2)  25(42.4)  17(28.8)  11(18.6)  2.56  .915  .168  -.815  
+Resolution  2(3.4)  15(25.4)  22(37.3)  20(33.9)  3.02  .861  -.369  -.800  
+
+
+a 
+
+Grade groups utilized (None: 1¡V4.9; Few: 5¡V5.9; Enough: 6¡V8.9; Completely: 9¡V10). 
+5. Discussion and conclusions Education. This study shows that it is at the stages of Primary Education and Secondary Education where the active gami.cation methodology 
+This study aimed to contrast the ef.cacy of two innovative method-tends to be of better value. In contrast, in the Baccalaureate stage, the ologies, such as gami.cation and .ipped learning in the area of Physical .ipped learning active methodology was better valued (Martin-
+M.E. Parra-Gonzalez et al. Heliyon 7 (2021) e06254 
+Table 4. Data obtained for the dimensions of research in CG and EG of Baccalaureate level.  
+Dimensions  Likert Scale n (%)  Parameters  
+None  Few  Enough  Completely  M  SD  Skw  Kme  
+Control group  Motivation  7(10)  21(30)  27(38.6)  15(2.4)  2.71  .919  -.200  -.762  
+Teacher-student  8(11.4)  19(27.1)  24(34.3)  19(27.1)  2.77  .981  -.280  -.931  
+Student-content  9(12.9)  21(30)  24(34.3)  16(22.9)  2.67  .974  -.162  -.944  
+Student-student  8(11.4)  19(27.1)  26(37.1)  17(24.3)  2.74  .958  -.270  -.845  
+Autonomy  7(10)  19(27.1)  26(37.1)  18(25.7)  2.79  .946  -.292  -.816  
+Collaboration  9(12.9)  21(30)  26(37.1)  14(20)  2.64  .948  -.163  -.848  
+Deepening  8(11.4)  23(32.9)  22(31.4)  17(24.3)  2.69  .971  -.105  -.992  
+Resolution  8(11.4)  21(30)  25(35.7)  16(22.9)  2.70  .953  -.184  -.880  
+Classtime  6(8.6)  20(28.6)  30(42.9)  14(20)  2.74  .879  -.255  -.584  
+Ratingsa 
+ 8(11.4)  21(30)  24(34.3)  17(24.3)  2.71  .965  -.187  -.928  
+Teacher-ratingsa 
+ 7(10)  20(28.6)  27(38.6)  16(22.9)  2.74  .928  -.243  -.770  
+Experimental group  Motivation  3(4.4)  12(17.6)  20(29.4)  33(48.5)  3.22  .859  -.842  -.297  
+Teacher-student  3(4.4)  10(14.7)  23(33.8)  32(47.1)  3.24  .866  -.908  .032  
+Student-content  2(2.9)  10(14.7)  24(35.3)  32(47.1)  3.26  .822  -.864  .000  
+Student-student  3(4.4)  10(14.7)  22(32.4)  33(48.5)  3.25  .870  -.936  .043  
+Autonomy  3(4.4)  7(10.3)  29(42.6)  29(42.6)  3.24  .813  -.978  .651  
+Collaboration  3(4.4)  8(11.8)  29(42.6)  28(41.2)  3.21  .821  -.903  .430  
+Deepening  2(2.9)  8(11.8)  28(41.2)  30(44.1)  3.26  .785  -.892  .394  
+Resolution  3(4.4)  20(39.4)  25(36.8)  20(29.4)  2.91  .876  -.236  -.873  
+
+
+a 
+
+Established grade group (None: 1¡V4.9; Few: 5¡V5.9; Enough: 6¡V8.9; Completely: 9¡V10). 
+
+Figure 2. Comparison between the different groups of analysis in Primary. 
+Rodriguez et al., 2016). Although greater autonomy associated with age for those dimensions that have been identi.ed as signi.cant differences. could be a correct response, it has not been shown that there is a sig-Thus, motivation is one of the highlights. These results are not consistent ni.cant relationship between them (Kashe.an-Naeeini 
+and 
+Riazi, 
+2011). with the scienti.c literature where various studies show signi.cant in-The technological capacity or competence can better explain the stu-creases in student motivation, both for gami.ed experiences and an dents' 
+results 
+(Zainuddin 
+and 
+Perera, 
+2017). inverted methodology (Zainuddin, 
+2018; Zainuddin 
+et 
+al., 
+2019). 
+The response trend in each of the stages is similar to the study di-The primary and secondary stages highlighted that gami.cation mensions. Both in the control group and the experimental group, except showed better results in the student-student, autonomy, collaboration, 
+M.E. Parra-Gonzalez et al. Heliyon 7 (2021) e06254 
+
+Figure 3. Comparison between the different groups of analysis in Secondary. 
+
+Figure 4. Comparison between the different groups of analysis in Baccalaureate. 
+and resolution dimensions. These results agree with other studies in results may be in.uenced by age, they may, instead, be due to a different which the ability of gami.cation to develop different abilities has been biological stage (Navarro 
+et 
+al., 
+2015). shown (Ban.eld 
+and 
+Wilkerson, 
+2014; Parra-Gonzalez 
+et 
+al., 
+2020; To answer, in general, each of the research questions that have been Quintas 
+et 
+al., 
+2020; Tan 
+and 
+Hew, 
+2016). This is probably due to an carried out, it can be shown as: increase in the students' intrinsic motivation (Ryan 
+and 
+Deci, 
+2002). 
+Contrastingly, the dimensions motivation, teacher-student, student-Does the training methodology in.uence the motivation of the stu-content, student-student, autonomy, collaboration, deepening, class-dents? This research has shown that the methodology does in.uence time, and ratings are signi.cant for high school students concerning the motivation of students. Furthermore, all of the educational stages the .ipped learning methodology. Although it may seem that these were analyzed, but from different perspectives. In Primary and 
+M.E. Parra-Gonzalez et al.  Heliyon 7 (2021) e06254  
+Table 5. Study of the value of independence between groups.  
+Dimensions  £g(X1-X2)  tn1tn2-2  df  d  rxy  
+Motivation Teacher-student  .420(3.24-2.82) .140(2.82-2.68)  2.317* n.s.  98 98  .029 .006  -.228 -.072  
+Student-content  .220(2.92-2.70)  n.s.  98  -.018  -.118  
+Student-student  .460(3.14-2.68)  2.501*  98  .018  -.245  
+Autonomy  .420(3.18-2.76)  2.377*  98  .023  -.233  
+Collaboration  .440(3.20-2.76)  2.389*  98  .029  -.235  
+Deepening  .140(2.92-2.78)  n.s.  98  -.024  -.083  
+Resolution  .560(3.34-2.78)  2.227**  98  .000  -.310  
+Classtime  .160(2.88-2.72)  n.s.  98  .000  -.094  
+Ratingsa 
+ .500(3.28-2.78)  2.790**  98  .017  -.271  
+Teacher-ratingsa 
+ .180(2.96-2.78)  n.s.  98  .012  -.102  
+Motivation  .322(2.86-2.54)  2.013*  116  .044  -.184  
+Teacher-student  -.034(2.53¡V2.56)  n.s.  116  .056  .021  
+Student-content  -.017(2.58¡V2.59)  n.s.  116  .006  .010  
+Student-student  .407(2.95-2.54)  2.461*  116  .043  -.223  
+Autonomy  .492(3.00-2.51)  3.018**  116  .037  -.270  
+Collaboration  .424(3.03-2.61)  2.643**  116  .058  -.238  
+Deepening  .017(2.56-2.54)  n.s.  116  .000  -.009  
+Resolution  .475(3.02-2.54)  2.932**  116  .011  -.263  
+Classtime  .051(2.58-2.53)  n.s.  116  -.017  -.031  
+Ratingsa 
+ .034(2.58-2.54)  n.s.  116  -.022  -.020  
+Teacher-ratingsa 
+ .102(2.66-2.56)  n.s.  116  .011  -.058  
+Motivation  -.506(2.71¡V3.22)  -3.277**  136  -.020  .271  
+Teacher-student  -.464(2.77¡V3.24)  -2.943**  136  -.016  .245  
+Student-content  -.593(2.67¡V3.26)  -3.862**  136  -.016  .314  
+Student-student  -.507(2.74¡V3.25)  -3.251**  136  -.016  .269  
+Autonomy  -.450(2.79¡V3.24)  -2.991**  136  -.032  .248  
+Collaboration  -.563(2.64¡V3.21)  -3.725**  136  -.029  .304  
+Deepening  -.579(2.69¡V3.26)  -3.846**  136  -.037  .313  
+Resolution  -.212(2.70¡V2.91)  n.s.  136  .020  .116  
+
+
+**. The correlation is signi.cant at the 0.01 level. *. Correlation is signi.cant at the 0.05 level. 
+n.s. Not signi.cant. 
+a 
+
+Established grade group (None: 1¡V4.9; Few: 5¡V5.9; Enough: 6¡V8.9; Completely: 9¡V10). 
+Secondary Education, gami.cation has an in.uence. In contrast, in Higher Education, it is .ipped learning. Does the training methodology in.uence the students' interaction with the teacher? In this case, it has only in.uenced higher education; it has not in the other stages. Speci.cally, in the development of .ipped learning. Does the training methodology in.uence the interaction of students with the content of the teaching? As with the previous question, this aspect only in.uenced higher education. Speci.cally, in the devel-opment of .ipped learning. Does the training methodology in.uence the interaction of students? Although it is more signi.cant in higher education than in the pri-mary and secondary stages, this aspect in.uences all education stages. In Higher Education, .ipped learning has in.uence. In the other two educational stages, gami.cation has in.uence. Does the training methodology in.uence student autonomy? Although it is more signi.cant in higher and secondary education than in primary education, it has a positive in.uence. As in the pre-vious cases, gami.cation in.uences secondary and primary educa-tion. In higher education, it is in.uenced by .ipped learning. Does the training methodology in.uence student collaboration? In this case, it is the same as in the previous question. It is signi.cant at all stages, but more so in secondary and higher education. In Primary and Secondary Education, it is in.uenced by gami.cation. In Higher Education, .ipped learning. Does the training methodology in.uence the level of depth of the content? It only in.uences higher education. In the rest of the stages, there is no relationship of importance. In this case, .ipped learning has an in.uence. Does the training methodology in.uence the degree of problem-solving by students? Yes, it affects and is very signi.cant for pri-mary and secondary education stages, but it has no relation to higher education. In this case, gami.cation has in.uenced two educational stages. Does the training methodology have an in.uence on class-time with students? Only in higher education. It does not in.uence the primary and secondary stages of education. In this case, only .ipped learning has an in.uence. Does the training methodology in.uence the degree of quali.cation of the students? The quali.cations only in.uence, in a very signi.cant way, the primary and higher education stages. It has no apparent in.uence on the secondary education stage. In Primary Education, gami.cation has an in.uence. In Higher Education, it is in.uenced by .ipped learning. 
+
+M.E. Parra-Gonzalez et al. Heliyon 7 (2021) e06254 
+To conclude, it has been shown that the use of two active method-ologies, such as gami.cation and .ipped learning, cause different im-provements in the teaching and learning processes of Physical Education students. Most studies focus on comparing these types of methodologies with the traditional methodology, but few seek to detect the different advantages and possible applications of the different available methodologies. 
+It has been shown that, at least in the context where this research has been carried out, both methodologies are equally crucial for Physical Education students' learning processes. It is gami.cation that seems to have a better predisposition to be used by younger students or in the early stages of the educational system, such as primary and secondary educa-tion. At the same time, .ipped learning is the one that obtains the best results in more advanced stages, such as secondary education. 
+As an extension of this study in the future, studying the proposed dimensions from a joint perspective is raised, where gami.cation and .ipped learning are combined and compared with traditional teaching. On the other hand, it would be interesting to know the opinion, through interviews, of the teachers who develop the intervention to obtain qualitative information about the process carried out. Furthermore, this study can be extrapolated to other subjects, such as mathematics or language teaching. Similarly, it appears that there are undetected external or sociodemographic factors that may be affecting the results. Therefore, the study of different sociodemographic variables could guide future research. 
+Different implications derive from this research. At a theoretical level, the study has made it possible to expand the existing literature on active methodologies in the educational .eld, in this case, gami.cation and .ipped learning. This has made it possible to bring together the most recent and impact studies to understand and analyze its state. 
+On a practical level, this research has revealed the most signi.cant and conclusive results achieved to date. Especially regarding the appli-cation of gami.cation and .ipped learning in the Physical Education subject. This study has re.ected its potentialities with the prospect that other teachers can carry out training practices through these emerging methodologies. On the other hand, the scienti.c community is encour-aged to continue investigating these training actions and contrast and discuss the .ndings presented here with future works. 
+Declarations 
+Author contribution statement 
+J. Lopez Belmonte, E. Parra-Gonzalez: Conceived and designed the experiments; Contributed reagents, materials, analysis tools or data; Wrote the paper. 
+A. Segura-Robles: Conceived and designed the experiments; Per-formed the experiments; Analyzed and interpreted the data; Wrote the paper. 
+A. J. Moreno-Guerrero: Performed the experiments; Analyzed and interpreted the data; Wrote the paper. 
+Funding statement 
+This research did not receive any speci.c grant from funding agencies in the public, commercial, or not-for-pro.t sectors. 
+Data availability statement 
+The data that has been used is con.dential. 
+Declaration of interests statement 
+The authors declare no con.ict of interest. 
+Additional information 
+No additional information is available for this paper. 
+References 
+Attali, 
+Y., 
+Arieli-Attali, 
+M., 
+2015. 
+Gami.cation 
+in 
+assessment: 
+do 
+points 
+affect 
+test 
+performance? 
+Comput. 
+Educ. 
+83, 
+57¡V63. 
+Awidi, 
+I.T., 
+Paynter, 
+M., 
+2019. 
+The 
+impact 
+of 
+a 
+.ipped 
+classroom 
+approach 
+on 
+student 
+learning 
+experience. 
+Comput. 
+Educ. 
+128, 
+269¡V283. 
+Ayen, 
+F., 
+2017. 
+.Que es 
+la 
+gami.cacion 
+y 
+el 
+ABJ? 
+Iber: 
+didactica 
+de 
+las 
+ciencias 
+sociales. geografia 
+e 
+historia 
+1 
+(86), 
+7¡V15. 
+Ban.eld, 
+J., 
+Wilkerson, 
+B., 
+2014. 
+Increasing 
+student 
+intrinsic 
+motivation 
+and 
+self-ef.cacy 
+through 
+gami.cation 
+pedagogy. 
+Contemp. 
+Issues 
+Educ. 
+Res. 
+7 
+(4), 
+291¡V298. 
+Bezanilla, 
+M.J., 
+Fernandez-Nogueira, 
+D., 
+Poblete, 
+M., 
+Galindo-Dominguez, 
+H., 
+2019. 
+Methodologies 
+for 
+teaching-learning 
+critical 
+thinking 
+in 
+higher 
+education: 
+the 
+teacher¡¦s 
+view. 
+Think. 
+Skills 
+Creativ. 
+33, 
+78¡V88. 
+Chaves-Barboza, 
+E., 
+Trujillo-Torres, 
+J.M., 
+Lopez-N~nez, 
+J.A., 
+2016. 
+Acciones 
+para 
+la 
+Autorregulacion 
+del 
+Aprendizaje 
+en 
+Entornos 
+Personales. 
+Pixel-Bit, 
+Revista 
+de 
+Medios 
+y 
+Educacion 
+(48), 
+67¡V82. 
+Chou, 
+P.-N., 
+Feng, 
+S.-T., 
+2019. 
+Using 
+a 
+tablet 
+computer 
+application 
+to 
+advance 
+high 
+school 
+students¡¦ 
+laboratory 
+learning 
+experiences: 
+a 
+focus 
+on 
+electrical 
+engineering 
+education. 
+Sustainability 
+11 
+(2), 
+381¡V395. 
+Corujo-Velez, 
+M.C., 
+Gomez 
+del 
+Castillo, 
+M.T., 
+Merla-Gonzalez, 
+A.E., 
+2020. 
+Construtivist 
+and 
+collaborative 
+methodology 
+mediated 
+by 
+ICT 
+in 
+higher 
+education 
+using 
+webquest. 
+Pixel-Bit: 
+Revista 
+de 
+Medios 
+y 
+Educacion 
+57, 
+7¡V57. 
+Discroll, 
+T., 
+2012. 
+Flipped 
+Learning 
+And 
+Democratic 
+Education 
+(Graduate 
+Thesis). 
+Columbia 
+University, 
+USA. 
+Etikan, 
+I., 
+2016. 
+Comparison 
+of 
+convenience 
+sampling 
+and 
+purposive 
+sampling. 
+Am. 
+J. 
+Theor. 
+Appl. 
+Stat. 
+5 
+(1), 
+1. 
+Ferriz-Valero, 
+A., 
+Osterlie, 
+O., 
+Garcia 
+Martinez, 
+S., 
+Garcia-Jaen, 
+M., 
+2020. 
+Gami.cation 
+in 
+physical 
+education: 
+evaluation 
+of 
+impact 
+on 
+motivation 
+and 
+academic 
+performance 
+within 
+higher 
+education. 
+Int. 
+J. 
+Environ. 
+Res. 
+Publ. 
+Health 
+17 
+(12), 
+1¡V16. 
+Flores-Fonseca, 
+V.M., 
+Gomez, 
+J., 
+2017. 
+Applying 
+active 
+methodologies 
+for 
+teaching 
+software 
+engineering 
+in 
+computer 
+engineering. 
+IEEE 
+Revista 
+Iberoamericana 
+de 
+Tecnologias 
+Del 
+Aprendizaje 
+12 
+(4), 
+182¡V190. 
+Froehlich, 
+D.E., 
+2018. 
+Non-technological 
+learning 
+environments 
+in 
+a 
+technological 
+world: 
+.ipping 
+comes 
+to 
+the 
+aid. 
+J. 
+N. 
+Approaches 
+Educ. 
+Res. 
+7 
+(2), 
+88¡V92. 
+Ghasemi, 
+A., 
+Zahediasl, 
+S., 
+2012. 
+Normality 
+tests 
+for 
+statistical 
+analysis: 
+a 
+guide 
+for 
+non-statisticians. 
+Int. 
+J. 
+Endocrinol. 
+Metabol. 
+10 
+(2), 
+486¡V489. 
+Gil-Flores, 
+J., 
+Rodriguez-Santero, 
+J., 
+Torres-Gordillo, 
+J.-J., 
+2017. 
+Factors 
+that 
+explain 
+the 
+use 
+of 
+ICT 
+in 
+secondary-education 
+classrooms: 
+the 
+role 
+of 
+teacher 
+characteristics 
+and 
+school 
+infrastructure. 
+Comput. 
+Hum. 
+Behav. 
+68, 
+441¡V449. 
+Gomez-Carrasco, 
+C.J., 
+Monteagudo-Fernandez, 
+J., 
+Moreno-Vera, 
+J.R., 
+Sainz-Gomez, 
+M., 
+2020. 
+Evaluation 
+of 
+a 
+gami.cation 
+and 
+.ipped-classroom 
+program 
+used 
+in 
+teacher 
+training: 
+perception 
+of 
+learning 
+and 
+outcome. 
+PloS 
+One 
+15 
+(7), 
+1¡V19. 
+Gonzalez, 
+L.E.Q., 
+Jimenez, 
+F.J., 
+Moreira, 
+M.A., 
+2018. 
+Mas 
+alla del 
+libro 
+de 
+texto. 
+La 
+gami.cacion 
+mediada 
+con 
+TIC 
+como 
+alternativa 
+de 
+innovacion 
+en Educacion 
+Fisica. 
+Retos: 
+nuevas 
+tendencias 
+en 
+educacion 
+fisica, 
+deporte 
+y 
+recreacion 
+(34), 
+343¡V348. 
+Hernandez-Sampieri, 
+R., 
+Fernandez-Collado, 
+C., 
+Baptista-Lucio, 
+P., 
+Mendez-Valencia, 
+S., 
+Mendoza-Torres, 
+C.P., 
+2014. 
+Metodologia 
+de 
+la 
+investigacion, 
+.rst 
+ed. 
+McGrawHill, 
+Mexico, 
+D.F. 
+
+Hinojo-Lucena, 
+F., 
+Mingorance-Estrada, 
+A., 
+Trujillo-Torres, 
+J., 
+Aznar-Diaz, 
+I., 
+Caceres 
+Reche, 
+M., 
+2018. 
+Incidence 
+of 
+the 
+.ipped 
+classroom 
+in 
+the 
+physical 
+education 
+students¡¦ 
+academic 
+performance 
+in 
+university 
+contexts. 
+Sustainability 
+10 
+(5), 
+1334. 
+Huang, 
+Y.-T., 
+Guo, 
+M., 
+2019. 
+Facing 
+disadvantages: 
+the 
+changing 
+professional 
+identities 
+of 
+college 
+English 
+teachers 
+in 
+a 
+managerial 
+context. 
+System 
+82, 
+1¡V12. 
+J£á
+oreskog, 
+K.G., 
+Moustaki, 
+I., 
+2001. 
+Factor 
+Analysis 
+of 
+ordinal 
+variables: 
+a 
+comparison 
+of 
+three 
+approaches. 
+Multivariate 
+Behav. 
+Res. 
+36 
+(3), 
+347¡V387. Kashe.an-Naeeini, 
+S., 
+Riazi, 
+A.M., 
+2011. 
+Beliefs 
+and 
+autonomy: 
+a 
+case 
+of 
+Iranian 
+students. 
+Eur. 
+J. 
+Soc. 
+Sci. 
+20 
+(3), 
+425¡V430. Knapp, 
+T.R., 
+2016. 
+Why 
+is 
+the 
+one-group 
+pretest¡Vposttest 
+design 
+still 
+used? 
+Clin. 
+Nurs. 
+Res. 
+25 
+(5), 
+467¡V472. 
+Kwan, 
+C., 
+Foon, 
+K., 
+2020. 
+A 
+comparison 
+of 
+.ipped 
+learning 
+with 
+gami.cation, 
+traditional 
+learning, 
+and 
+online 
+independent 
+study: 
+the 
+effects 
+on 
+students¡¦ 
+mathematics 
+achievement 
+and 
+cognitive 
+engagement. 
+Interact. 
+Learn. 
+Environ. 
+28 
+(4), 
+464¡V481. 
+Lee, 
+J.J., 
+Hammer, 
+J., 
+2011. 
+Gami.cation 
+in 
+education: 
+what, 
+how, 
+why 
+bother? 
+Acad. 
+Exchange 
+Q. 
+15 
+(2), 
+146¡V151. 
+Lee, 
+J., 
+Lim, 
+C., 
+Kim, 
+H., 
+2017. 
+Development 
+of 
+an 
+instructional 
+design 
+model 
+for 
+.ipped 
+learning 
+in 
+higher 
+education. 
+Educ. 
+Technol. 
+Res. 
+Dev. 
+65 
+(2), 
+427¡V453. 
+Long, 
+T., 
+Cummins, 
+J., 
+Waugh, 
+M., 
+2017. 
+Use 
+of 
+the 
+.ipped 
+classroom 
+instructional 
+model 
+in 
+higher 
+education: 
+instructors¡¦ 
+perspectives. 
+J. 
+Comput. 
+High 
+Educ. 
+29 
+(2), 
+179¡V200. 
+Lopez-Belmonte, 
+J., 
+Segura-Robles, 
+A., 
+Fuentes-Cabrera, 
+A., 
+Parra-Gonzalez, 
+M.E., 
+2020. 
+Evaluating 
+activation 
+and 
+absence 
+of 
+negative 
+effect: 
+gami.cation 
+and 
+escape 
+rooms 
+for 
+learning. 
+Int. 
+J. 
+Environ. 
+Res. 
+Publ. 
+Health 
+17 
+(7), 
+2224. 
+Lopez-Quintero, 
+J.L., 
+Pontes-Pedrajas, 
+A., 
+Varo-Martinez, 
+M., 
+2019. 
+Las 
+TIC 
+en 
+la 
+ense~
+nanza 
+cienti.co-tecnica 
+hispanoamericana: 
+una 
+revision 
+bibliogra.ca. 
+Digit. 
+Educ. 
+Rev. 
+(35), 
+229¡V243, 
+0. M.del 
+C, 
+Bernal-Gonzalez, 
+Martinez-Due~
+nas, 
+M.S., 
+2017. 
+Metodologias 
+activas 
+para 
+la 
+ense~
+nanza 
+y 
+el 
+aprendizaje. 
+Rev. 
+Panam. 
+Pedagog. 
+1 
+(25), 
+271¡V275. 
+Marin-Marin, 
+J., 
+Soler-Costa, 
+R., 
+Moreno-Guerrero, 
+A., 
+Lopez-Belmonte, 
+J., 
+2020. 
+Effectiveness 
+of 
+diet 
+habits 
+and 
+active 
+life 
+in 
+vocational 
+training 
+for 
+higher 
+technician 
+in 
+dietetics: 
+contrast 
+between 
+the 
+traditional 
+method 
+and 
+the 
+digital 
+resources. 
+Nutrients 
+12 
+(11), 
+3475. 
+
+M.E. Parra-Gonzalez et al. Heliyon 7 (2021) e06254 
+Molina, J.J., Ortiz, A., Agreda, M., 2017. Analisis de la integracion de procesos gami.cados en Educacion Primaria. In: Ruiz-Palmero, J., Sanchez-Rodriguez, J., Sanchez-Rodriguez, j. (Eds.), Innovacion docente y uso de las TIC en eduacion. Malaga: Universidad de Malaga (UMA), pp. 12¡V13. Retrieved from. https://dialnet.u 
+nirioja.es/servlet/articulo?codigo.6224871. 
+Molina-Aventosa, 
+P., 
+Valenciano-Valcarcel, 
+J., 
+Valencia-Peris, 
+A., 
+2015. 
+Los 
+blogs 
+como 
+entornos 
+virtuales 
+de 
+ense~
+nanza 
+y 
+aprendizaje 
+en 
+Educacion 
+Superior. 
+Rev. 
+Complut. 
+Educ. 
+26, 
+15¡V31 
+(0). Montrezor, 
+L.H., 
+2016. 
+Performance 
+in 
+physiology 
+evaluation: 
+possible 
+improvement 
+by 
+active 
+learning 
+strategies. 
+Adv. 
+Physiol. 
+Educ. 
+40 
+(4), 
+454¡V457. 
+Moreno-Guerrero, 
+A.J., 
+Jurado 
+de 
+los 
+Santos, 
+P., 
+Pertegal-Felices, 
+M.L., 
+Soler 
+Costa, 
+R., 
+2020. 
+Bibliometric 
+study 
+of 
+scienti.c 
+production 
+on 
+the 
+term 
+collaborative 
+learning 
+in 
+web 
+of 
+science. 
+Sustainability 
+12 
+(14), 
+1¡V19. 
+Mortensen, 
+C.J., 
+Nicholson, 
+A.M., 
+2015. 
+The 
+.ipped 
+classroom 
+stimulates 
+greater 
+learning 
+and 
+is 
+a 
+modern 
+21st 
+century 
+approach 
+to 
+teaching 
+today¡¦s 
+undergraduates. 
+J. 
+Anim. 
+Sci. 
+93 
+(7), 
+3722¡V3731. 
+Navarro, 
+J.-J., 
+Garcia-Rubio, 
+J., 
+Olivares, 
+P.R., 
+2015. 
+The 
+relative 
+age 
+effect 
+and 
+its 
+in.uence 
+on 
+academic 
+performance. 
+PloS 
+One 
+10 
+(10), 
+e0141895. 
+Oliveira, 
+C., 
+Lopes, 
+J., 
+Spear-Swerling, 
+L., 
+2019. 
+Teachers¡¦ 
+academic 
+training 
+for 
+literacy 
+instruction. 
+Eur. 
+J. 
+Teach. 
+Educ. 
+42 
+(3), 
+315¡V334. 
+Pallant, 
+J., 
+2003. 
+SPSS 
+Survival 
+Manual: 
+A 
+Step-by-step 
+Guide 
+to 
+Data 
+Analysis 
+Using 
+SPSS 
+for 
+Windows 
+(Versions 
+10 
+and 
+11). 
+Open 
+Univ. 
+Press. 
+Parra-Gonzalez, 
+M.E., 
+Lopez-Belmonte, 
+J., 
+Segura-Robles, 
+A., 
+Fuentes-Cabrera, 
+A., 
+2020. 
+Active 
+and 
+emerging 
+methodologies 
+for 
+Ubiquitous 
+education: 
+potentials 
+of 
+.ipped 
+learning 
+and 
+gami.cation. 
+Sustainability 
+12 
+(2), 
+1¡V11. 
+Perez-Lopez, 
+I., 
+Rivera, 
+E., 
+2017. 
+Formar 
+Docentes, 
+Formar 
+Personas: 
+analisis 
+de 
+los 
+Aprendizajes 
+Logrados 
+por 
+Estudiantes 
+Universitarios 
+desde 
+una 
+Experiencia 
+de 
+Gami.cacion. 
+Signo 
+y 
+Pensamiento 
+36 
+(70), 
+112¡V129. 
+Privitera, 
+G.J., 
+2020. 
+Research 
+Methods 
+for 
+the 
+Behavioral 
+Sciences, 
+third 
+ed. 
+Sage 
+Publications, 
+Inc, 
+Los 
+Angeles. 
+Quintas, 
+A., 
+Bustamante, 
+J.-C., 
+Pradas, 
+F., 
+Castellar, 
+C., 
+2020. 
+Psychological 
+effects 
+of 
+gami.ed 
+didactics 
+with 
+exergames 
+in 
+Physical 
+Education 
+at 
+primary 
+schools: 
+results 
+from 
+a 
+natural 
+experiment. 
+Comput. 
+Educ., 
+103874 
+
+Ryan, 
+R.M., 
+Deci, 
+E.L., 
+2002. 
+Overview 
+of 
+self-determination 
+theory: 
+an 
+organismic-dialectical 
+perspective. 
+In: 
+Handbook 
+of 
+Self-Determination 
+Research. 
+University 
+of 
+Rochester 
+Press, 
+Rochester, 
+NY, 
+US, 
+pp. 
+3¡V33. 
+Salkind, 
+N.J. 
+(Ed.), 
+2010. 
+Encyclopedia 
+of 
+Research 
+Design. 
+SAGE 
+Publications, 
+Thousand 
+Oaks, 
+Calif. 
+Santiago, 
+R., 
+Bergmann, 
+J., 
+2018. 
+Aprender 
+al 
+reves: 
+Flipped 
+learning 
+3.0 
+y 
+metodologias 
+activas 
+en 
+el 
+aula, 
+.rst 
+ed. 
+Paidos, 
+Barcelona. 
+Sargent, 
+J., 
+Casey, 
+A., 
+2020. 
+Flipped 
+learning, 
+pedagogy 
+and 
+digital 
+technology: 
+establishing 
+consistent 
+practice 
+to 
+optimise 
+lesson 
+time. 
+Eur. 
+Phys. 
+Educ. 
+Rev. 
+26 
+(1), 
+70¡V84. 
+Segura-Robles, 
+A., 
+Fuentes-Cabrera, 
+A., 
+Parra-Gonzalez, 
+M.E., 
+Lopez-Belmonte, 
+J., 
+2020. 
+Effects 
+on 
+personal 
+factors 
+through 
+.ipped 
+learning 
+and 
+gami.cation 
+as 
+combined 
+methodologies 
+in 
+secondary 
+education. 
+Front. 
+Psychol. 
+11, 
+1103. 
+Sein-Echaluce, 
+M.L., 
+Fidalgo-Blanco, 
+A., 
+Garcia 
+Pe~nalvo, 
+F.J., 
+2019. 
+Innovative 
+Trends 
+in 
+Flipped 
+Teaching 
+and 
+Adaptive 
+Learning. 
+Information 
+Science 
+Reference, 
+Hershey, 
+PA. 
+Tan, 
+M., 
+Hew, 
+K.F., 
+2016. 
+Incorporating 
+meaningful 
+gami.cation 
+in 
+a 
+blended 
+learning 
+research 
+methods 
+class: 
+examining 
+student 
+learning, 
+engagement, 
+and 
+affective 
+outcomes. 
+Australas. 
+J. 
+Educ. 
+Technol. 
+32 
+(5), 
+19¡V34. 
+Turan, 
+Z., 
+Akdag-Cimen, 
+B., 
+2020. 
+Flipped 
+classroom 
+in 
+English 
+language 
+teaching: 
+a 
+systematic 
+review. 
+Comput. 
+Assist. 
+Lang. 
+Learn. 
+33 
+(5-6), 
+590¡V606. 
+White, 
+M., 
+Shellenbarger, 
+T., 
+2018. 
+Gami.cation 
+of 
+nursing 
+education 
+with 
+digital 
+badges. 
+Nurse 
+Educat. 
+43 
+(2), 
+78¡V82. 
+Wyant, 
+J., 
+Baek, 
+J.-H., 
+2019. 
+Re-thinking 
+technology 
+adoption 
+in 
+physical 
+education. 
+Curriculum 
+Studies 
+in 
+Health 
+and 
+Physical 
+Education 
+10 
+(1), 
+3¡V17. 
+Xiang, 
+N., 
+Hwa, 
+Y., 
+Teck, 
+K., 
+Camire, 
+M., 
+Yi, 
+J., 
+2020. 
+Singapore 
+teachers¡¦ 
+attitudes 
+towards 
+the 
+use 
+of 
+information 
+and 
+communication 
+technologies 
+in 
+physical 
+education. 
+Eur. 
+Phys. 
+Educ. 
+Rev. 
+26 
+(2), 
+481¡V494. 
+Zainuddin, 
+Z., 
+2018. 
+Students¡¦ 
+learning 
+performance 
+and 
+perceived 
+motivation 
+in 
+gami.ed 
+.ipped-class 
+instruction. 
+Comput. 
+Educ. 
+126, 
+75¡V88. 
+Zainuddin, 
+Z., 
+Perera, 
+C.J., 
+2017. 
+Exploring 
+students¡¦ 
+competence, 
+autonomy 
+and 
+relatedness 
+in 
+the 
+.ipped 
+classroom 
+pedagogical 
+model. 
+J. 
+Furth. 
+High. 
+Educ. 
+(1), 
+1¡V12. 
+Zainuddin, 
+Z., 
+Habiburrahim, 
+H., 
+Muluk, 
+S., 
+Keumala, 
+C.M., 
+2019. 
+How 
+do 
+students 
+become 
+self-directed 
+learners 
+in 
+the 
+EFL 
+.ipped-class 
+pedagogy? 
+A 
+study 
+in 
+higher 
+education. 
+Indonesian 
+Journal 
+of 
+Applied 
+Linguistics 
+8 
+(3), 
+678¡V690. 
+
+
+
+
+
+
+
+
+
+
+

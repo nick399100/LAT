@@ -1,0 +1,2236 @@
+Computers 
+in 
+Human 
+Behavior 
+80 
+(2018) 
+158e167 
+
+Imprint logo
+Contents lists available at ScienceDirect 
+
+Computers in Human Behavior 
+journal homepage: www.elsevier.com/locate/comphumbeh 
+
+Journal logo
+
+Full length article 
+A meta-analysis with examination of moderators of student cognition, affect, and learning outcomes while using serious educational games, serious games, and simulations 
+Richard L. Lamb a, * 
+, Leonard Annetta b, Jonah Firestone c, Elisabeth Etopio a 
+
+a University at Buffalo, United States b East Carolina University, United States c Washington State University Tri-Cities, United States 
+article info abstract 
+Article history: 
+Received 12 September 2017 Received in revised form 4 October 2017 Accepted 23 October 2017 Available online 28 October 2017 
+Keywords: 
+Serious educational games Meta-analysis Video games Cognition 
+Educational games and simulations provide teachers with powerful tools for teaching students in the sciences. Within the broad category of educational gaming, there are several types of games to include Serious Educational Games (SEG), Educational Simulations (ES), and Serious Games (SG). The purpose of this meta-analysis is to characterize and compare outcomes related to serious educational games, serious games, and educational simulations as they are presented in the educational literature. Speci.cally the authors intend to .ll gaps left by previous studies, include major .nding, and assess the current state of the .eld related to the use of these innovative technologies. The results of this study are in line with previous studies suggesting higher cognitive gains and increases in positive affective toward learning from subjects using SEGs, SGs, and ES. Effects were calculated from 46 empirical experimental studies. The examined studies suggest that ES, SGs, and SEGs do not differ in a statistically signi.cant way when compared to traditional instruction but do differ from each other. More to this point, effect size outcomes are suggestive of a cumulative medium effect for cognition (d..67) and affect (d..51) with a small effect for behavior (d..04). 
+c 2017 Elsevier Ltd. All rights reserved. 
+
+Information and computer technologies are considered some of the most powerful teaching tools supporting student learning in the classroom (Ertmer 
+& Ottenbreit-Leftwich, 
+2010). Within the broad category of educational gaming are several technology types including Serious Educational Games (SEG), educational simula-tions (ES), and Serious Games (SG). In the educational setting, as-pects of the relationship between learning and technology are often assumed and the factors that mediate the successes and short-comings of various technologies in education are often taken for granted and left unexamined (Pearce, 
+Weller, 
+Scanlon, 
+& Kinsley, 
+2012). Speci.cally, policy makers often assume that all technol-ogy formats such as software, computers, tablets, and other tech-nologies are equally effective at reaching students in the classroom. Many of these simulations and games .nd their way into the 
+
+* Corresponding author. E-mail addresses: rllamb@buffalo.edu 
+(R.L. Lamb), annettal16@ecu.edu 
+
+(L. Annetta), jonah..restone@tricity.wsu.edu 
+(J. Firestone), etopio@buffalo.edu 
+
+(E. Etopio). 
+education, medical, aviation, and military, among other .elds. This leads to a more is better approach when considering the use of technology in the classroom. 
+One problem with assessing the affordances and barriers of the SGs, SEGs and educational simulations is that the categories and terms are often confounded and used interchangeable in the liter-ature. This creates dif.culty in determining the effectiveness of one group of technologies versus another other and leads researchers to isolate one form from another in studies of effectiveness. To clarify the discussion, within this study, the authors de.ne educational simulations as electronic representations of real phenomena acting as practice for tasks in the real world. An example of a simulation would be SAS Curriculum Pathways (Lamb 
+& Annetta, 
+2013). In contrast, Serious Games are games designed to train a broad series of tasks using real life examples. While the authors understand that SGs are a broad category of games which include board games, the authors are only examining electronic versions of SGs. The .nal category is Serious Educational Games (SEGs), which are similar to Serious Games (SGs) but incorporate speci.c a priori pedagogical approaches to not only train tasks but teach content as well 
+https://doi.org/10.1016/j.chb.2017.10.040 
+
+0747-5632/c 2017 Elsevier Ltd. All rights reserved. 
+R.L. Lamb et al. / Computers in Human Behavior 80 (2018) 158e167 
+(Annetta, 
+2010). 
+Due to the increases in computing power, broader use of ES, SGs, and SEGs has been a relatively recent phenomenon; however, game use in education is not new (Akilli, 
+2011, 
+pp. 150e167). The .rst educational game, created in 1973, Lemonade Stand, was an example of an initial foray into computer game use in the class-room. However Lemonade Stand was signi.cantly limited in its ability to assess outcomes and more broadly simulate actual tasks in the real world. More recent attempts to increase authenticity have largely focused on the ability of SGs, SEGs, and ES to assess and provide authentic tasks and learning. This is mainly due to the fact that many of the new versions of these educational tools allow real-time feedback to educators and students, but also allow assessment of more than just content (Lamb 
+& 
+Annetta, 
+2009; 
+Lamb, 
+Annetta, 
+Meldrum, 
+& Vallett, 
+2012; 
+Lamb, 
+Vallett, 
+& Annetta, 
+2014; 
+Lamb, 
+Vallett, 
+et 
+al., 
+2014). For example, modern SEGs provide means to examine students completing authentic tasks in real time with measurement of cognitive and affective outcomes. 
+1. Study purpose and meta-analysis questions 
+The following meta-analysis examines the use of interactive educational games as they are currently used in the classroom context. The purpose of this meta-analysis is to characterize and compare outcomes related to serious educational games, serious games, and educational simulations as they are presented in the educational literature. Speci.cally, the authors intend to .ll gaps left by previous studies, include major .ndings, and assess the current state of the .eld. Through a systematic review, and meta-analysis of the literature related to SEGs, SGs and ES the authors attempt to answer the following research questions: 
+1. 
+Does the use of Serious Educational Games (SEGs), Serious Games (SGs), and educational simulations (ES) increase affec-tive, cognitive, or achievement outcomes in the preschool through university (P-20) learning environment? 
+
+2. 
+How effective has the use of SEGs, SGs, and ES been at improving students affect, cognition, and achievement within the P-20 learning environments? 
+
+3. 
+What characteristics of SEGs, SGs, and ES in education are most important for determining the effectiveness of their use on student affect, cognition, and achievement? 
+
+
+To answer the .rst two research questions, studies were orga-nized into categories of cognitive effects, affective effects, and achievement effects. The effectiveness of these categories was measured using standardized mean difference effect sizes. Moderator examinations were used to test for category differences in effect size variance. To answer the third question, the authors examined the foci of study interventions to develop a conceptual understanding of the variables examined in each study. The syn-thesis of evidence addressing these questions offers insight into the role SEGs, SGs, and ES play within the educational arena. 
+2. Serious educational games, serious games, and educational simulations 
+Starting in 2008, Annetta began to develop the concepts and de.ning characteristics of SEGs. His major work attempted to differentiate SEGs from the broader category of Serious Games (Annetta, 
+2008; 
+Annetta, 
+Minogue, 
+Holmes, 
+& Cheng, 
+2009; 
+Lamb 
+& Annetta, 
+2012; 
+Lamb 
+& 
+Annetta, 
+2013). These games are more than just simulations in that they provide signi.cant environmental context in a three-dimensional, open-ended environment. These complex representations of the world make it possible for a student to interact with dangerous or otherwise untenable environments (Dondinger, 2007). 
+In the SG and SEG environments the learner is exposed to complex representations often requiring speci.c content knowl-edge and learning progressions to be completed in order to move the game forward toward the objective. This is directly opposed to simulations that are often limited to a speci.c domain and entirely task-based, such as .ying an airplane as a part of a .ight simulator. In addition to the differences between SEGs, SGs and ES, Serious Games lack the speci.c pedagogical supports of Serious Educa-tional Games. For example, Call of Duty if used to train military personal in room clearing techniques could be considered an example of a Serious Game. While the military personnel could certainly learn from the use of such a game, no one would argue there is a speci.c pedagogical approach in the game. 
+SEGs are a speci.c form of video game played within a virtual immersive three-dimensional environments used for educational purposes that includes a directed and a priori pedagogical approach. The major educational technology categories related to computerized learning environments are a broadly inclusive cate-gory that include computer based training, online education, and computer aided instruction. The domains differ due speci.c char-acteristics and conceptions of how the learner interacts within the particular virtual environment (Bernard 
+et 
+al., 
+2009). 
+SEGs and SGs share commonality, SGs and SEGs allow for a level of open-ended play not available in educational simulations. In the simulations, the tasks and relationships are singular. As with other forms of computer-based training, the focus is on developing concrete skills over a limited domain. The pedagogical approaches in SGs and ES are considered and built posteriori and are external to each. SGs combine the best aspects of a simulations and link it to a system designed around speci.c skill uses and how to apply those skills to solve problems. 
+Although each of these domains of technology enhanced in-struction, SEGs, SGs, and ES, share characteristics with other do-mains of educational technology such as e-learning, ¡¥edutainment¡¦, and digital game-based learning. This study speci.cally focuses on the domains of Serious Education Games (SEGs), Serious Games (SG), and Simulations (ES) in an effort to identify critical aspects related to teaching and learning with these tools. 
+3. Historical development of SGs and SEGs 
+Historically, a problem within the gaming industry has been a lack of hardware development (processing power, graphic rendering, and interface development) that enables the realistic settings and graphics, tool interactions, and tasks to effectively create realistic educational games beyond a discrete simulation. Many of these limitations changed during the 2000s when indi-vidual processing power reached a suf.cient level to make realistic three-dimensional (3-D) renderings of environments possible. This increase in processing power coincided with new memory formats that allowed the average user to have access to unprecedented quantities of computer memory that enabled more open-ended immersive gaming to occur thus the basic components of SGs and SEGs became possible. These new learning environments focused on all levels of teaching and learning and were immediate pre-decessors to Serious Games and later Serious Educational Games (Annetta, 
+Folta, 
+& 
+Klesath, 
+2010). 
+Increase realism and associated interactive capabilities enabled groups such as the United States Army to release a game titled America's Army in 2002 for the purposes of recruitment and mar-keting. To describe these new genera of games, Zyda 
+(2005), coined the term Computerized Serious Games (Apperley, 
+2006). The release of the Army's Serious Game, in conjunction with the Woodrow 
+
+R.L. Lamb et al. / Computers in Human Behavior 80 (2018) 158e167 
+Wilson Center's introduction of the Serious Games Initiative, created the impetus within the educational sector to develop video games for more than just entertainment. These actions decidedly placed the term Serious Game into the forefront of the educational tech-nology discussions. Military research into the use of Serious Games continues in multiple places such as the Wright-Patterson Air Force Base with the 711th Human Performance Wing and Fort Sam Houston as a part of the War.ghter Readiness Research Division Immersive Environments. 
+In 2004, Annetta collaborated with other researcher-educators to add the pedagogical and learning aspects to SGs thus trans-forming SGs to SEGs (Annetta 
+& Shymansky, 
+2006). Lamb 
+(2013) 
+later developed assessment models for integration into Serious Educational Games increasing their usability as classroom tools. This particular branch of educational gaming or game based learning, deals with a very speci.c approach in which one de.nes learning outcomes as a function of content, cognitive change, and or skill based growth; not just change in isolated skills alone (Breuer 
+& 
+Bente, 
+2010). From the fringes of educational technology, the term and conceptions of what a Serious Educational Games is has matured. Through the maturation of the games within the literature, the term (Serious Educational Games) more recently has become more speci.c; referring to games designed to run on per-sonal computers or video game consoles (Annetta, 
+2010). This is another speci.c difference between Serious Games, Serious Educational Games, and Educational Simulations in that Serious Games and many Educational Simulations require larger more robust computer platforms due to computational requirements making them out of reach for many primary and secondary educational institutions. 
+4. What is a simulation (ES)? 
+Simulations in education are a group of technologies supporting highly engaging, often two-dimensional, interactive virtual envi-ronments between limited variables. Simulations mimic real life situations or processes as a limited model for manipulation and examination of the relationships between interacting variables (Kunkler, 
+2006). Simulations provide the user the opportunity to interact at almost any scale or environment regardless of the feasibility in the real world. In the case of a simulation, the enter-tainment is simply a byproduct of the actions and not necessarily the intention of the designers. The singular simpli.ed two-dimensional closed nature modeling is the critical de.ning aspect of a simulation (ES) studies in this analysis. 
+5. How simulations differ from a video game 
+Given the wide variety of video games available, a critical question is how a video game, in the general sense, differs from a simulation. To answer this one must .rst understand the aspects that make up a game. A game has multiple features and qualities that are universal to all forms of games including video games. Games have the following characteristics: 
+(1) 
+Emotional attachment to the outcome of the actions taken by the player; 
+
+(2) 
+A uniform set of rules governing the actions players take; 
+
+(3) 
+Differential outcomes related to actions taken by players during play; 
+
+(4) 
+Differentiation of value for actions taken by players; 
+
+(5) 
+Consequential actions resulting from actions the players take; 
+
+(6) 
+Agents within the game for the player's characteristics to act upon. 
+
+
+
+This generalized description of a game applies to any game including video games. The differentiation of the video game from other forms of games occurs through the inclusion of electronic components such as input devices (keyboard or joystick) and output devices (computer screen or television) that mediate the six characteristics above (Mitchell 
+& 
+Savill-Smith, 
+2004). In this un-derstanding, a simulation has many characteristics in common with a video game, in that a simulation is designed to model real systems as closely as possible (Walker, 
+Giddings, 
+& Armstrong, 
+2011). For example, the Lunar Lander1 
+game is a Moon landing simulation. This is in contrast to a SEG in an SG, where the designers attempt to model all aspects of the complexity of the system to include the three dimensional nature of the system. SEGs also depart from simulations and SG though the addition of story as a means to drive game mechanics. 
+6. Model of student learning 
+To fully appreciate the role that educational gaming can play in learning it is important to understand how the authors de.ne student learning. Educational and psychological literature tends to focus on only one narrow aspect of learning when discussing research. Speci.cally, researchers arti.cially separate learning into three areas: affect, behavior, and cognition (Mazur, 
+2015). Thus, when examining the role of one of these three components of learning on student outcomes there is little consideration on how each of the areas interact with the other as antecedents or subse-quent dispositions. More importantly, there is little direct com-parison of how different forms of technology interact to change learning. Current trends in educational measurement and psycho-metrics using educational games have begun to address the arti.-cial disconnect that exists between affect, cognition, and content outcomes and allow educators a means to assess all three areas simultaneously (Young 
+et 
+al., 
+2012). This is of critical importance because of the linkage between affect (attitudes) and orientation toward learning (Slavin, 
+2011). 
+The intersection of cognition, behavior, and affect was initially introduced by Berkowitz, 
+Bowen, 
+Benbenishty, 
+& Powers 
+(1993) 
+and further developed from previous models through a focus on automatic associative affect such as that found in Epstein's 
+(1997) 
+model and Lamb's 
+(2014) 
+cognition priming model. 
+Automatic associative affect, as the name implies, results from repeated contact with contexts not consciously under control that associates the affect with the context (Bandura, 
+1977; 
+Bleasdale, 
+1987; 
+Fiske 
+& Taylor, 
+2013). This form of affect is often durable and persistent (Barban, 
+Daniele 
+Zannino, 
+Macaluso, 
+Caltagirone, 
+& Carlesimo, 
+2013). Spontaneous affect, by contrast, is usually tran-sient and not domain speci.c, meaning the response is not isolated to a single context (Somerville 
+et 
+al., 
+2013). These forms of affective reactions (spontaneous affect) occur relatively quickly and give rise to low-order cognition, Therefore, the resultant behaviors will be more simplistic such as approach or avoidance behavior (Cox 
+& Klinger, 
+2011). Within the affective-priming process, affective ef-fects take place prior to cognitive processes. A second mechanism of action related to activation of affect and cognition concerns the higher-level cognition acting as a primer and generating arousal related to affect (Lamb, 
+Akmal, 
+& Petrie, 
+2015; Lamb, 
+2016). This model is the cognition-priming model. This model is of interest to science education and education in general as it provides a window into interactions seen within the classroom. This form of priming can be triggered by the play of SEGs, SGs, and ES (Hamre 
+et 
+al., 
+2013). 
+1 http://phet.colorodo.edu/en/simulation/lunar-lander. 
+
+
+R.L. Lamb et al. / Computers in Human Behavior 80 (2018) 158e167 
+Within the cognition-priming model, the content of the games act as the externalization of the cognitive process manifested as behavior (i.e. responses to tasks or actions during the play of the game). Thus, task and cognition, and cognition and affect, are tightly linked together when engaged in the virtual learning envi-ronment and ultimately become important indicators as outcomes measures (Lamb, 
+2014). However, one additional element that is missing within the cognition-priming model is the role of memory (Bartelt, 
+Dennis, 
+Yuan, 
+& Barlow, 
+2013). Since cognition-priming arises in a controlled manner and requires more time to engage, additional factors can be inserted during this period via game play. The additional time also allows students the opportunity to recall previous experiences (memory) due to reduced allocation of cognitive load assisted by the virtual environment (Mitchell 
+& Savill-Smith, 
+2004). 
+7. Knowledge construction 
+The construction of knowledge in a virtual environment is comparable to the construction of knowledge in an analogue environment (i.e. the real world). This is because humans construct and use knowledge to identify and understand critical processes regardless of the environment in which they .nd themselves (Weick, 
+Sutcliffe, 
+& 
+Obstfeld, 
+2005). In the case of SGs, ES, and SEGs, the student develops concepts through the generation and use of internal representations of concrete objects in the real world while using the virtual equivalent (Perlovsky, 
+2009). As a result of concept development by the learners, educators and psychologists have a tendency to focus on the faculties of students in science that develop recognition of the signi.cant objects within a problem and solve for those objects (i.e. inferential and critical reasoning) (Anderson 
+& 
+Bower, 
+2013). Studies suggest that video game players, and by extension SEG players, would need to encode explicit in-formation presented in the game for use later in task-based prob-lem-solving, thereby potentially transferring awareness and knowledge application to similar environments within the real world (Clark 
+& 
+Mayer, 
+2011). This explicit encoding or knowledge construction and knowledge deployment is the key feature for the measurement of cognitive attribute sets as proposed by Lamb 
+et 
+al. 
+(2014). In other words, task completion is a key consideration when assessing cognitive attributes in relation to games and simulations (Lamb, 
+Vallett, 
+et 
+al., 
+2014). However, skill transfer across multiple domains and generalization of these cognitive attributes outside of the particular context of speci.c video games is still an area of intensive research (Cheng, 
+2014). Speci.cally the identi.cation of patterns of cognitive processes used by video game players in multiple domains is of critical signi.cance to the education and psychology community. The primary assumption related to learning using video games is that when exposing a student to low stakes computer environments, the students will undertake spe-ci.c tasks when using videogames and the identi.ed tasks result in learning gains for the student. This assumption is the underlying principal of educational gaming (Annetta, 
+2008). 
+Goal orientation occurring in a low-stakes environment pro-motes student learning in videogames and acts as an initial hook to promote arousal of interest. Task completion within the game as-sists in knowledge construction and takes place within the video game acting as the mediator of those tasks and learning in science (Annetta, 
+Lamb, 
+Minogue, 
+Folta, 
+Holmes, 
+Vallett, 
+& Cheng, 
+2014). 
+8. Why games are so engaging in the classroom 
+Educational games are designed speci.cally to take advantage of the engaging nature of video games through the bridging of cognition and psychological reward systems. This occurs through stimulation of the areas of the brain associated with attention and arousal (Schore, 
+2000). Recently Lamb, 
+Vallett, 
+Akmal, 
+and 
+Baldwin 
+(2014) 
+took the ability to use SEGs to assess learning a step further through the design and development of computational models for examination of the non-linear dynamics of student cognitive pro-cessing in science (Lamb, 
+Cavagnetto, 
+& Akmal, 
+2014). The resultant model, the Student Task and Cognition Model (STAC-M) developed from SEGs game play data illustrates the potential transformative power of these games for research and assessment purposes by examining cognitive attributes. 
+9. Summary 
+One goal of educators is to assist students in achieving increased levels of understanding in their content and skills areas. One po-tential way to improve this understanding is with the use of Serious Educational Games (SEG), Serious Games (SG), and Simulations (ES). SEGs and their closely related brethren, Serious Games and Educational Simulations, are of interest to the education commu-nity for several reasons. However, there is con.icting research about the value and characteristics of these modes and the factors that moderate learning outcomes. 
+10. Methods 
+The authors made use of multiple analysis methods to examine studies. Those methods include analysis of moderators, analysis effect size, and analysis of publication bias. 
+11. Inclusion criteria 
+The authors applied four criteria as a means to establish study inclusion within the meta-analysis sample. First, the intervention must have targeted outcomes related to cognition, affect, and/or student achievement outcomes such as content knowledge. The .rst criterion addresses the need for content alignment learning and validity within the sample. The second criterion relates to the intervention. Speci.cally, the intervention must relate to a measure of student learning contained under the three overarching frames of cognition, affect, and achievement. For example, studies with a foci of self-ef.cacy or interest would be included under the frame of affect. However, studies focusing on teacher outcomes rather than student outcomes, while interesting, would be excluded from the study. The authors also chose to include only studies that used an experimental design with a comparison group. Quasi-experimental designs were also included within this analysis in addition to random assignment experiments. Inclusion of both designs is intended to increase statistical power and validity of the meta-analysis. However, observational, qualitative, and exploratory studies are excluded from this analysis, as it is dif.cult to verify the presence of a comparison group and calculate effects. Based upon the inclusion criteria the authors interpreted effect sizes as the magnitude of impact related to the use of SEGs, SGs, and ES as instructional tools. The authors of the study have limited the ex-amination of literature to that produced in peer-review journal articles (not books) from 2002 to 2015. The inclusion of these studies re.ects the increases in processing power and graphics that came about during the .rst decade and a half of the 21st century, allowing for realistic approximations of the real world in both two dimensions and three dimensions. 
+Participants from the selected studies ranged in age from 6-years old to 19-years old, grades .rst grade through sophomore year in college, exhibited typical cognitive, affective, and behaviors responses. Treatments duration varied widely from one lesson to a full school year. All university level treatments lasted at least the 
+
+R.L. Lamb et al. / Computers in Human Behavior 80 (2018) 158e167 
+full semester. 
+12. Electronic search strategy 
+Maximization of the representativeness of the meta-analysis sample was established through the use of multiple electronic databases related to education, psychology, computer science, and instructional technology. The authors searched EBSCOhost and JSTOR for articles related to science education, education, psy-chology, computer science, and instructional technology. In addi-tion, the authors searched the Science Citation Index Expanded, Social Sciences Citation Index and the Arts and Humanities Citation Index. IEEE Electronic Library and Google Scholar websites were also used to .nd additional relevant studies. ProQuest and ISI Web of Knowledge were searched for digital dissertations. Due to the nature of journals only publishing articles with signi.cant results, the authors included dissertations, conference proceedings, and reports, which often report non-signi.cant results in addition to signi.cant results in order to diminish publication bias. Search terms were chosen in order to identify studies meeting the .rst inclusion criteria (ES, SG or SEG) based intervention designed to increase student learning related to the cognition, affect, or achievement outcomes. Keywords, for this analysis of the literature were simulations, Serious Games, classroom, student learning, student affect, student achievement, student cognition, Serious Educational Games, SEGs, science, and science education. To .lter out studies not related to student learning making use of simulations or SEGs, the authors included the additional search terms: education, learn, in-struction. Finally, the authors contacted a well-established scholar in the areas of Serious Game, Serious Educational Game, and simulation use in the classroom to see if there were additional studies relevant to the analysis which were not already included. 
+13. Coding studies 
+Study coding took place using a multi-stage approach. Initially all studies were coded and numbered by the .rst author with a second coder selecting random studies during each stage to develop inter-rater agreement metrics. Initially title and abstract results of the electronic search were surveyed, those articles not related to ES, SGs, and SEGs learning outcomes were excluded. The authors initially identi.ed k . 2151 relevant articles. Upon completion of the second set of coding, judgments about the likely relevance of the student based learning outcomes, articles titles and abstracts were examined to ascertain article retention or removal. Studies were considered not relevant for this review if they did not meet the criteria of the search. If relevance could not be determined from their titles and abstracts, the full studies were printed and more intensively reviewed by the authors. Upon completion of the third round of coding, the authors retained k . 253 studies. The fourth stage of the analysis was the determi-nation of the number of independent samples within each study. The authors then recorded the measure of student learning used along with study means, standard deviations, and study charac-teristics. Study characteristics that were examined in this fourth round of coding were sample, age or grade level, ethnicity, the intervention, speci.cally the type of simulation, dimensionality, and the results of the effect size calculations. The .fth stage of coding was a qualitative assessment that allowed the authors to determine categories of simulation, SG, and SEG. Ultimately, the authors retained k . 28 or 1% of the total number of studies. The retained studies were experimental and quasi-experimental studies with control or comparison groups. The total number of data points used from all of the studies was n . 49. There are more data points than studies since the individual studies often contained more than one area of examination. For a total list of studies and its contribution, please see Appendix 
+A. 
+Inter-rater reliability was measured for Stages 2, 3, and 4 of the coding process using random sampling of the remaining studies. This stage allowed for agreement between raters for 93% of studies. If either rater thought a study might be relevant, the study was moved to the third stage of review. As a result of this process, during the second stage of analysis, 28% of the original studies were selected for review in the third stage. The Stage 3 analysis occurred with a thorough review of the whole study identifying and applying the four criteria. Based on the Stage 3 analysis 12% of the original studies were retained for Stage 4 analysis. At this point, the authors coded study characteristics. Initial inter-rater agreement measured at approximately .79. The level of reliability is too low for singular judgment. In order to increase the level of reliability for all remaining studies a panel of experts in instructional technology, education and psychology was used. The panel agreed that cate-gories represented the observed interventions inter-rater reliability was recalculated and increased to .96. 
+14. Moderator descriptions 
+14.1. Affect 
+Emotion is a key component of psychological and educational understandings relating outcomes to cognition and achievement. Empirical studies in psychology and education, among other .elds, have done a great deal of work to characterize and de.ne affect and its role in perception and understanding in learning. Speci.cally, affect or emotions anchor and shape beliefs and perceptions and are intricately intertwined with cognition and behavior. Affect is developed and explored at the individual level of the phenomenon. Within this study, there are a number of affective characteristics, which relate and overlap each other. Examination of the studies reveals four affective constructs counted as an outcome measure. The four constructs are engagement, sensation, motivation, and self-ef.cacy. 
+14.2. Engagement 
+Engagement within the context of this study derives from psy-chological immersion within the SG, SEG, and ES. More speci.cally, the type of engagement often experienced by players within the context of these modes is referred to as Flow (Csikszentmihalyi, 
+1997). Flow is a highly energized state of concentration and focus often allowing one to shut-out distractions (Annetta, 
+Lamb, 
+Bowling 
+& Cheng, 
+2011). Flow is further characterized as a psy-chological state one enters while deeply engaged with experiential immersive interactive learning environments that hold one's attention for an extended period of time (Paine, 
+2007). 
+14.3. Motivation 
+Motivation is a more generalized construct consisting of inter-est, self-ef.cacy, and other related constructs (Usher, 
+2012). Moti-vation is divided into two facets, intrinsic and extrinsic. Intrinsic motivation is characterized by behaviors in which people actively engage in activities that interest them without the necessity of reward. Extrinsic motivation is characterized by behaviors that are performed not because of interest but because of a concrete or perceived consequence or reward. Motivation within the context of SEG, SG, and ES arises from a desire to complete required tasks and solve problems to progress the game. 
+R.L. Lamb et al. / Computers in Human Behavior 80 (2018) 158e167 
+14.4. Self-ef.cacy 
+Psychologists consider self-ef.cacy, along with interest, as part of an area of psychology concerned with self-referent thought and its relation to psychological functioning (Bandura, 
+1982). Psycho-metricians and measurements experts suggest that measurement of self-referent constructs, such as self-ef.cacy, can most readily be accomplished via self-reporting measures, as the constructs are internal and latent (Lamb 
+et 
+al., 
+2012). Completion of virtual task and mastery of content within the virtual environment can lead to increases in ones self-ef.cacy within the real world (Hardin, 
+Looney, 
+& Fuller, 
+2014). The construct of self-ef.cacy is compo-nential consisting of, cognitive, social, and behavioral skills inte-grated into coherent psychological heuristics for reactionary approaches. The four general components affecting self-ef.cacy are personal belief, verbal massages and social encouragement, mastery experiences, and peer success (Bandura, 
+1977) 
+
+14.5. Cognition 
+Individual human cognition is a means to embody a set of processes and mechanisms by which an individual understands the world though thinking and problem solving (Zimmerman 
+& Croker, 
+2014). General cognition is a combination of several cognitive at-tributes activated in parallel and simultaneously. This process of understanding has in some ways led to an arti.cial separation be-tween the knowing and doing (Hotton 
+& Yoshimi, 
+2011). One-way to bridge this separation between knowing and doing is with the use of authentic tasks. Authenticity is a key feature of learning and by extension learning in the virtual environment. The linkage be-tween the structure of the activity and the authenticity of the task demands that one's cognition situate into the context of the learning environment. These processes develop into a set of diverse and complex cognitive procedures when used in parallel and simultaneously. These component skills or attributes include the ability to comprehend and produce written and oral statements describing the interaction of complex variables, critical reasoning, and the ability to retrieve, calculate, estimate and reason through simple and complex problems (Lamb, 
+2014; 
+Lamb, 
+Annetta, 
+Vallett, 
+& Sadler, 
+2014; 
+Lamb, 
+Vallett, 
+et 
+al., 
+2014). 
+
+14.6. Skill development 
+Use of ES, SGs, and SEGs to promote the learning of psychomotor skills have been implemented in multiple .elds. These .elds include the medical, aviation, and natural science .elds. Prime among the reasons for the use of these modes of learning is the ability of the students to engage in soft-failure scenarios (Vallett 
+& Annetta, 
+2014). Students have the opportunity to routinely engage in multiple attempts and explore as they see .t without the use of actual materials or fear of failure (Lamb 
+& Annetta, 
+2013). In addition to options for continuous practice, simulations, SGs, and SEGs provide for a means to control confounding variables within the educational process maximizing on-task learning and re.ective practice. 
+
+14.7. Dimensionality 
+Dimensionality refers to the development of the SG, SEG, or ES as a two-dimensional or three-dimensional virtual learning envi-ronment. The main characteristics of the three-dimensional envi-ronment are the modeling of the real-world using the XYZ coordinate system. The XYZ coordinate system allows for move-ment and vector development within each axis. A second charac-teristic of dimensionality is the ability of the user to interact and manipulate items within the environment. The major assumption associated with learning in a three-dimensional environment is the learner will be able to transfer the three-dimensional virtual environmental cues and models from the two-dimensional screen back to the three-dimensional real world. Many studies have concluded that this is possible to do so in terms of speci.c cognitive attributes (Chiesa, 
+Calati, 
+& Serretti, 
+2011; Catala, 
+Garcia-Sanjuan, 
+Pons, 
+& 
+Jaen, 
+2014). With this said, there are relatively few studies directly comparing two-dimensional virtual learning envi-ronments to three-dimensional learning environments. In addition, current extant studies are inconclusive in answering questions related to the two-dimensional versus three-dimensional leaning environments. There is some evidence that the form of presenta-tion of information mediates the manner in which the information is cognitively encoded (Ownes, Mitchell, Khazanchi, & Zigurs, 2011). 
+15. Independence of effect size 
+The unit of analysis for this review is the independent sample. Within most of the studies that met our inclusion criteria, more than one effect size is obtainable for the sample due to multiple subscales and multiple tests. For example, some researchers measured the same construct multiple ways or multiple times. Other researchers employed multiple treatment groups and mul-tiple control groups. Ignoring the dependence between the sample treatment means and comparison means can result in a study having too much weight within the analysis. In those cases in which the effect size lacked independence, an average effect size for the study was calculated. In some cases, the samples of some subscales and assessments overlapped but lacked or gained a few students so the sample sizes of each dependent effect size varied slightly. In these cases, a weighted average effect size was calculated and the .nal sample size used was an average of the sample sizes. Other studies allowed for analysis of differential samples studies with no overlap, within these studies, each effect size was independent and these were included in the meta-analysis. Studies continuing into a second year in which the design was repeated with an entirely new sample of students were also included as an independent effect size. This repetition results in a second effect size for inclusion within the meta-analysis. Multiple effect sizes do not reduce clus-tering resulting from within study effects on means and variances. This speci.c method of structuring the data does not disallow the possibility of data clustering. 
+16. Computation of effect size 
+The interventions sample measured outcomes on a variety of scales creating dif.culty when comparing across studies. Stan-dardized mean difference effect size, Cohen's d, was chosen to represent intervention study results. In addition, when both pretest and posttests were available, the authors corrected posttest effect sizes through a difference in difference for means through stan-dardization of the mean differences by pooled posttest standard deviation. Studies reporting statistics other than means and stan-dard deviations, for example, proportions, F-test, t-test, and cor-relation coef.cients, were standardized using standardized mean effect size. 
+17. Data clustering 
+The authors adjusted for lack of study independence due to with-in study clustering effects through methods designed to reduce potential Type I error. Initially design effects using interclass correlations were calculated. The design effect adjusted the 
+
+R.L. Lamb et al. / Computers in Human Behavior 80 (2018) 158e167 
+standard error for each cluster minimizing Type I error. Analysis of error within cluster groups of data using structural equation modeling of error analysis of covariance and error allowed for comparison of changes in effect size to model .t using Bayesian Information Criterion (BIC). 
+18. Results 
+The authors obtained 2151 articles that were initially considered for inclusion in the study. Of the initial articles, 456 articles con-tained research reports. Further review of the articles resulted in 225 articles identi.ed as Category 1 however, only 52-reported suf.cient information to compute effect size. These 52 articles contained 37 experimental examinations of the effect of Category 1. A random-effect funnel plot con.rm there was publication bias present. Due to the inclusion of non-published research papers (dissertations, reports, and proceedings), the effects of publication bias would be limited. 
+Most of the studies 26 experiments, 51% were conducted at the high school level, 25 experiments, and 49% were conducted at the college or university level. Treatment durations varied from study to study with most treatments administered in short terms without repeated administrations. However, treatment duration was not a signi.cant predictor of sample effect size (b1..00037, p > 0.05). Fig. 
+1 
+illustrates the funnel plot with 95% con.dence limits. A funnel plot is a plot of intervention effect estimates from individual studies against the studies precision. This estimation in effect illustrates the presence or absence of publication bias (Duval 
+& Tweedie, 
+2000). Examination of Fig. 
+1 
+reveals publication bias is present in the current analysis. 
+19. Bias due to quasi-experimental study inclusion 
+The weighted average randomized experiments effect size for the randomized classroom assignment was d. .35 and d..64 for quasi-experimental designs. Perceived differences between the randomized experiment and quasi-experimental design may arise out of differences related study design mechanics. However, anal-ysis of moderator effects suggest that observed differences were not statistically signi.cant, Q (1) . .61, p..41. Thus, the inclusion of quasi-experimental designs in our sample did not signi.cantly create bias within the results. Table 
+1 
+provides a list of areas of signi.cant effect size shown under Category 1. Post-hoc moderator 
+Table 1 
+Pairwise post hoc category moderator tests. 
+Category 1 Category 2 Q (1) d Interpretation 
+Dimensionality of the Games Three Dimensional 5.71* .497 Medium Two Dimensional 1.14 .099 Negligible Mixed 3.19 .278 Medium 
+Measured Outcomes Affective 4.68* .512 Small Cognitive 5.06* .671 Small Skill Based 9.94* .817 Large 
+Learning Environment the 6e8 5.99* .513 Medium Games were used in 9e12 4.74* .382 Small University 0.97 .083 Negligible 
+Game Type Educational 5.87* .625 Medium Simulation Serious 6.99* .795 Large Educational Game Serious Game 4.72* .503 Medium 
+* 
+p < .05. 
+analysis shown in Category 2 provides a listing of speci.c charac-teristics thought to signi.cantly in.uence study effect sizes. 
+20. Weighted average effect size 
+Information collected within each category allowed the authors to compute the study design adjusted effect size and the empirical Bayesian effect size estimate. The authors found a positive statis-tically signi.cant effect size for every category in at least one of the models. A multivariate moderator analysis revealed statistically signi.cant variance between categories, Q (1) . 7.84, p..005 or a heterogeneous distribution. This result suggests that differences among the effect sized have variance due to other factors other than subject-level sampling errors. These results indicate a post-hoc moderator analysis to develop further understanding of the re-lationships. Additional to the intervention categories, the authors also code for learning focus of the intervention i.e. affect, cognition, and skills. Table 
+2 
+illustrates the weighted average effect sizes for each type of study by emphasis. 
+21. Discussion 
+The results in Table 
+1 
+answer Research Question 1 and 2. The results of this study are in line with previous studies suggesting higher cognitive gains and increases in positive affective toward 
+
+Fig. 1. Funnel Plot of publication bias with 95% con.dence limits. 
+R.L. Lamb et al. / Computers in Human Behavior 80 (2018) 158e167 
+Table 2 
+Weighted average effect sized for study emphasis. 
+Intervention Empirical Bayes SE Design effect adjusted SE focused on the adjusted .xed effects random effects 
+*
+development of: weighted averages, dj weighted averages, d 
+Learning .214 .021* .467 .099* Performance 
+Affective .237 .021* .217 .044* Improvement 
+Task Skill .302 .019* .234 .047* Acquisition 
+* 
+p < .05. 
+learning from subjects using SEGs and simulations (Lamb 
+et 
+al., 
+2017; 
+Schmitz, 
+Klemke, 
+& Specht, 
+2014). Statements related to these increases result from analysis of 28 empirical studies with 49 data points. This number of studies suggest rejection of the null hypothesis that studies comparing outcomes of simulation use (d..63),SG(d..50), and SEG (d..79) differ in a statistically signif-icant way, speci.cally that SEGs signi.cantly outperform SGs and ES, while SGs and ES have similar outcomes. Differences between SEGs and the other categories could be attributed to the inclusion of speci.c pedagogical approaches during game design as opposed to the external superimposition of the pedagogy after the game is complete. This would suggest that teachers adding in pedagogy after the fact is not as effective as using games with pedagogy preplanned. 
+Examination of other category effect size outcomes are sug-gestive of a cumulative medium effect for cognition (d..67) and affect (d..51) with a large effect for skills based training (d..81). This could be tied to the task based approach used in skills training making it easier to measure change. Though there appears to be a difference between the effect size for cognition and affect, the effect size are not statistically signi.cantly different F (1,36) ..007, p..93. Secondary examination of the effect size magnitudes using a rank order approach does not illustrate differences as there is consid-erable overlap within the con.dence intervals. Unfortunately, the authors are unable to detangle factors other than dimensionality that lead to speci.c increases related to cognition versus affect related to learning science content. These factors should be continued to be explored in future research. 
+Successful learning depends on affect, cognition, and behavior related to useful ideas. The development of competencies is not only ability dependent but related to modes of instruction. Thus, a student's success with concepts is attitudinal as well as cognitive. Post-hoc multiple comparison analysis illustrates that on the main effect of cognition there are statistically signi.cant differences for SEGs versus SG and ES (p < 0.001). SGs also show a statistically signi.cant difference on cognitive variables versus simulations (p..024). This supports a previous meta-analysis by Vogel, 
+Vogel, 
+Cannon-Bowers, 
+Bowers, 
+Muse, 
+& Wright 
+(2006). 
+Attitudes as conceptualized within the larger educational and psychological literature play a critical role in learning disciplinary content. For example, students who are unwilling (for multiple reasons) to persist in endeavors do not suddenly develop into sci-entists, mathematicians, engineers or computer scientists, nor do they seek out science related courses and, more importantly, they fail to become effect consumers of information and knowledge related to disciplinary content. Post hoc examination of game type across the main effect of affect suggest statistically signi.cant negative differences between simulations and the categories of SG and SEGs (p..013). Since the two modes (ES and SEGs) signi.cantly differed in affect, this may be tied to the immersive nature of three-dimensional environments verses two-dimensional environments found in the simulations. This support previous .nding by Lamb, 
+2014 
+and Walkowiak, 
+Foulsham, 
+& 
+Eardley, 
+2015. 
+Post-hoc analysis of game type across the main effect of skills provides SEGs and SGs are positively statistically signi.cantly different from simulations, meaning that SEGs and SGs provide a greater positive effect when used to train skills verses simulations (p..021). This is consistent with .nding by Cheng, 
+Lin, 
+& 
+She, 
+2015. It is within these three approaches (cognition, affect, and skills) we hope to demonstrate an understanding of student learning that extends beyond a typical single outcome approach used in educa-tional research. SEGs, SGs and ES are powerful tools that can be used to in.uence outcomes related to cognition, affect, and skills. SEGs show a greater effect when compared to the other game types in cognitive outcomes and similar effects to SGs in affective and skills based learning. By contrast, simulations illustrate effects associated with cognition. Examination of the two-dimensional characteristics in Category 2 on Table 
+1 
+provides the answer. SEGs and SGs both make use of three-dimensional immersive environ-ments. Using three-dimensional representations seems to provide greater cognitive stimulation, immersion, realism, and task authenticity increasing the participant's ability to practice and learn content, relationships, and problem solve in a broader context. In essence, real-life is three-dimensional so virtual learning environments should be also. Students engage in the same practices in school that are found in SGs and SEG. Three-dimensional immersive environment are ubiquitous and students take part in them during after-school programs, informal settings like museums, science centers, zoos and aquariums, and at home with family. 
+22. Moderator analysis 
+The moderator analysis is broken down based upon the listings of categories found in Table 
+2. Analysis of these variables resulted in four key .ndings. 
+1. 
+Category 1, while studies in each of the categories (Mode, Outcome, Learning Environment, and Game Type) included both signi.cant and non-signi.cant effects, each category demon-strated positive weighted average effects. This .nding has direct implications in the classroom related to the use of instructional technology in the form of simulations. Meaning that as a teacher makes use of these tools these four areas should be consider over others. Particularly, Game Type should be of primary consideration, i.e. how isolated and disconnected the tasks and content need to be to promote learning. 
+
+2. 
+Mode, not only should the general question of why should we include educational technology in the classroom; but the addi-tional question, what particular combination of traits need to be examined should also be considered. Evidence from this study suggests that three-dimensional games provide the greatest effect with the other two categories showing effect but not statistically signi.cant effect. The difference between these ef-fects may be attributed to greater cognitive and affective engagement along with more realistic environmental repre-sentations. When considering the choice of games available, the teacher should make use of games that have three-dimensional environments as this will help to increase affective and cogni-tive engagement. 
+
+3. 
+Learning Environments, one area of interest requiring more research is the examination of the use of learning technologies in the post-secondary environment. While there seems to be signi.cant effects from the 6th grade to 12th grade level the effects do not seem to persist in the university and above level. This seems to indicate that there is a shift in needs as a student 
+
+
+
+R.L. Lamb et al. / Computers in Human Behavior 80 (2018) 158e167 
+transitions into the post-secondary environment. This shift may be due to the complexity of the content or the greater use of lecture in the classroom. 
+4. 
+Outcome the greatest effect for games is seen in the devel-opment of skills related to task, followed by cognitive changes. This result is expected given the interrelationship between tasks and cognition. Speci.cally that measurement of cognition often requires isolation of representative tasks. This suggests that instructors could generate the greatest results when using these educational technology tools to train speci.c skills related to content. 
+
+5. 
+Game Type, serious educational games illustrated the greatest effect size when compared to their counterparts. This effect may be due to the inclusion of speci.c pedagogical approaches in serious educational game not present in serious games. This seems particularly true given that educational simulations also rank more highly in effect than serious games. 
+
+
+
+To summarize the key characteristics that seem to stimulate learning is the inclusion of pedagogical approaches using three-dimensional environments to teach skills and engagement in cognitive retraining. The group would seem to bene.t most from this is the middle school age groups, followed by high school. Interestingly, the university level did not seem to have an impact on effect size. 
+23. Implications for practice 
+In general, the use of instructional technology has become increasing ubiquitous inside and outside of the classroom. SEGs provide a means to allow students the opportunities to practice. This study examines the nature of interventions within each study, focusing on whether the intervention emphasizes affect, cognition, and behaviors. An important trend seems to emerge when comparing the effects of two-dimensional simulation versus three-dimensional simulations. Effect size comparisons suggest that three dimensional simulations and games are more effective in changing student outcomes with the three areas of review. These results may derive from perceived realism and resultant engagement. This is not to suggest that learning gains cannot be achieved when using two-dimensional SEGs, SGs and simulations just that there is an increase in the effect when using three-dimensional environments versus two-dimensional environments. This study helps to provide evidence that a games-based approach to learning is being used across many different curricular areas, and promotes greater learning. Students seem to engage more readily with the game-based approach to learning and .nd it motivating and enjoyable. The use of SEGs and SGs seems to be especially useful in promoting higher order cognition and skill development (Dondlinger, 
+2007). 
+24. Limitations and suggested directions for research 
+The authors of this meta-analysis developed a broad based approach for this analysis in an attempt to include as many studies as possible. This broad based approach allowed for the inclusion of quasi-experimental studies, and classroom based studies so long as they appeared in peer-reviewed journals. Moderators selected for this study are not exhaustive by any means and provide only a glimpse into areas that seem to in.uence learning. This study also does not differentiate between the more general term simulation and the more speci.c term educational simulation. This broad range of simulations and games creates questions as to the types and modes of games and simulations that allow for the greatest gains in student achievement in science. Questions also arise as to the difference a two-dimensional and three-dimensional virtual environment plays in student learning. More speci.cally, what are the design components and characteristics that generate statisti-cally and practically signi.cant differences and effects in student learning? A third question, which may drive research, is an analysis of required dosing for the intervention. Each study within this analysis used short-term, non-persistent exposures to the in-terventions. Thus, time of exposure was not a consideration in this analysis. Placed into consistent and pedagogically sound practice the use of ES, SGs and SEGs may be instrumental in assisting science educators with teaching science skills, science related cognition, and increasing science related affect. 
+25. Conclusion 
+There are several arguments suggesting that affordances asso-ciated with ES, SGs, and SEGs provide instructors and teachers with means to facilitate learning leading to increases in student achievement, cognition, and affect. An in-depth and cursory review of the literature supports this assertion (Cheng, 
+Su, 
+Huang, 
+& Chen, 
+2014; 
+Hwang, 
+Chiu, 
+& Chen, 
+2015; 
+Wouters 
+& van 
+Oostendorp, 
+2017). Reviews of learning outcomes related to SEGs, SGs and ES over the span of the past ten-years have supported the idea that there is value in their use in the classroom. More importantly, while there are a number of studies examining each mode independently there is little research that directly compares each mode and the variables which moderate the differences. The results of this meta-analysis also .ll a critical hole in recent reviews, which do not examine the role of ES, SGs and SEGs. To encourage the use of games in learning beyond ES it is essential to develop a better understanding of the individual tasks, skills and learning objectives that each mode can offer and examine how these might match desired classroom outcomes. As with other educational tools, it is important to consider how games are integrated into the student's learning experience to in.uence outcomes related to cognition, affect, and behavior. 
+Appendix A. Supplementary data 
+Supplementary data related to this article can be found at https://doi.org/10.1016/j.chb.2017.10.040. 
+References 
+Akilli, 
+G. 
+K. 
+(2011). 
+Games 
+and 
+simulations: 
+A 
+new 
+approach 
+in 
+education. 
+Gaming 
+and 
+Simulations: 
+Concepts, 
+methodologies, 
+tools 
+and 
+applications, 
+ed. 
+Information 
+re-
+sources 
+management 
+association 
+(pp. 
+150e167). 
+Anderson, 
+J. 
+R., 
+& 
+Bower, 
+G. 
+H. 
+(2013). 
+Human 
+associative 
+memory. 
+New 
+York, 
+NY: 
+Psychology 
+press. Annetta, 
+L. 
+A. 
+(2008). 
+Video 
+games 
+in 
+education: 
+Why 
+they 
+should 
+be 
+used 
+and 
+how 
+they 
+are 
+being 
+used. 
+Theory 
+Into 
+Practice, 
+47(3), 
+229e239. Annetta, 
+L. 
+A. 
+(2010). 
+The 
+¡§I's¡¨ 
+have 
+it: 
+A 
+framework 
+for 
+serious 
+educational 
+game 
+design. 
+Review 
+of 
+General 
+Psychology, 
+14(2), 
+105. 
+Annetta, 
+L. 
+A., 
+& 
+Shymansky, 
+J. 
+A. 
+(2006). 
+Investigating 
+science 
+learning 
+for 
+rural 
+elementary 
+school 
+teachers 
+in 
+a 
+professional 
+-development 
+project 
+through 
+three 
+distance 
+-education 
+strategies. 
+Journal 
+of 
+Research 
+Inscience 
+Teaching, 
+43(10), 
+1019e1039. 
+Annetta, 
+L. 
+A., 
+Folta, 
+E., 
+& 
+Klesath, 
+M. 
+(2010). 
+V-Learning: 
+Distance 
+education 
+in 
+the 
+21st 
+century 
+through 
+3D 
+virtual 
+learning 
+environments. 
+New 
+York, 
+NY: 
+Springer. 
+
+Annetta, 
+L. 
+A., 
+Lamb, 
+R., 
+Bowling, 
+B., 
+& 
+Cheng, 
+R. 
+(2011). 
+Assessing 
+engagement 
+in 
+serious 
+educational 
+games: 
+The 
+development 
+of 
+the 
+student 
+engaged 
+learning 
+in 
+a 
+technology 
+rich 
+interactive 
+classroom 
+(SELTIC). 
+In 
+Handbook 
+of 
+research 
+on 
+improving 
+learning 
+and 
+motivation 
+through 
+educational 
+games: 
+Multidisciplinary 
+approaches 
+(pp. 
+310e329). 
+IGI 
+Global. 
+Annetta, 
+L. 
+A., 
+Minogue, 
+J., 
+Holmes, 
+S. 
+Y., 
+& 
+Cheng, 
+M. 
+T. 
+(2009). 
+Investigating 
+the 
+impact 
+of 
+video 
+games 
+on 
+high 
+school 
+students' 
+engagement 
+and 
+learning 
+about 
+genetics. 
+Computers 
+& Education, 
+53(1), 
+74e85. 
+Annetta, 
+L., 
+Lamb, 
+R., 
+Minogue, 
+J., 
+Folta, 
+E., 
+Holmes, 
+S., 
+Vallett, 
+D., 
+& 
+Cheng, 
+R. 
+(2014). 
+Safe 
+science 
+classrooms: 
+Teacher 
+training 
+through 
+serious 
+educational 
+games. 
+Information 
+Sciences, 
+264,61e74. 
+Apperley, 
+T. 
+H. 
+(2006). 
+Genre 
+and 
+game 
+studies: 
+Toward 
+a 
+critical 
+approach 
+to 
+video 
+game 
+genres. 
+Simulation 
+& Gaming, 
+37(1), 
+6e23. 
+R.L. Lamb et al. / Computers in Human Behavior 80 (2018) 158e167 
+Bandura, 
+A. 
+(1977). 
+Self-ef.cacy: 
+Toward 
+a 
+unifying 
+theory 
+of 
+behavioral 
+change. 
+Psychological 
+Review, 
+84(2), 
+191. 
+
+Bandura, 
+A. 
+(1982). 
+Self-ef.cacy 
+mechanism 
+in 
+human 
+agency. 
+American 
+Psycholo-
+gist, 
+37(2), 
+122. 
+Barban, 
+F., 
+Daniele 
+Zannino, 
+G., 
+Macaluso, 
+E., 
+Caltagirone, 
+C., 
+& 
+Carlesimo, 
+G. 
+A. 
+(2013). 
+Letters 
+persistence 
+after 
+physical 
+offset: 
+Visual 
+word 
+form 
+area 
+and 
+left 
+planum 
+temporale. 
+An 
+fMRI 
+study. 
+Human 
+Brain 
+Mapping, 
+34(6), 
+1282e1292. 
+Bartelt, 
+V. 
+L., 
+Dennis, 
+A. 
+R., 
+Yuan, 
+L., 
+& 
+Barlow, 
+J. 
+B. 
+(2013). 
+Individual 
+priming 
+in 
+virtual 
+team 
+decision-making. 
+Group 
+Decision 
+and 
+Negotiation, 
+22(5), 
+873e896. 
+Berkowitz, 
+R., 
+Bowen, 
+G., 
+Benbenishty, 
+R., 
+& 
+Powers, 
+J. 
+D. 
+(2013). 
+A 
+cross-cultural 
+validity 
+study 
+of 
+the 
+school 
+success 
+pro.le 
+learning 
+organization 
+measure 
+in 
+Israel. 
+Children 
+& Schools, 
+35(3), 
+137e146. 
+Bernard, 
+R. 
+M., 
+Abrami, 
+P. 
+C., 
+Borokhovski, 
+E., 
+Wade, 
+C. 
+A., 
+Tamim, 
+R. 
+M., 
+Surkes, 
+M. 
+A., 
+et 
+al. 
+(2009). 
+A 
+meta-analysis 
+of 
+three 
+types 
+of 
+interaction 
+treatments 
+in 
+distance 
+education. 
+Review 
+of 
+Educational 
+Research, 
+79(3), 
+1243e1289. 
+Bleasdale, 
+F. 
+A. 
+(1987). 
+Concreteness-dependent 
+associative 
+priming: 
+Separate 
+lex-
+ical 
+organization 
+for 
+concrete 
+and 
+abstract 
+words. 
+Journal 
+of 
+Experimental 
+Psy-
+chology: 
+Learning, 
+Memory, 
+and 
+Cognition, 
+13(4), 
+582. 
+Breuer, 
+J. 
+S., 
+& 
+Bente, 
+G. 
+(2010). 
+Why 
+so 
+serious? 
+On 
+the 
+relation 
+of 
+serious 
+games 
+and 
+learning. 
+Eludamos. 
+Journal 
+for 
+Computer 
+Game 
+Culture, 
+4(1), 
+7e24. 
+Catala, 
+A., 
+Garcia-Sanjuan, 
+F., 
+Pons, 
+P., 
+& 
+Jaen, 
+J. 
+(2014). 
+Active 
+creation 
+of 
+digital 
+games 
+as 
+learning 
+tools. 
+In 
+Digital 
+systems 
+for 
+open 
+access 
+to 
+formal 
+and 
+informal 
+learning 
+(pp. 
+275e291). 
+New 
+York, 
+NY: 
+Springer. 
+
+Cheng, 
+W. 
+K. 
+R. 
+(2014). 
+Relationship 
+between 
+visual 
+attention 
+and 
+Flow 
+experience 
+in 
+a 
+serious 
+educational 
+Game: 
+An 
+eye 
+tracking 
+analysis 
+(Doctoral 
+dissertation, 
+George 
+Mason 
+University). 
+Cheng, 
+M. 
+T., 
+Lin, 
+Y. 
+W., 
+& 
+She, 
+H. 
+C. 
+(2015). 
+Learning 
+through 
+playing 
+Virtual 
+Age: 
+Exploring 
+the 
+interactions 
+among 
+student 
+concept 
+learning, 
+gaming 
+perfor-
+mance, 
+in-game 
+behaviors, 
+and 
+the 
+use 
+of 
+in-game 
+characters. 
+Computers 
+& Education, 
+86,18e29. 
+Cheng, 
+M. 
+T., 
+Su, 
+T., 
+Huang, 
+W. 
+Y., 
+& 
+Chen, 
+J. 
+H. 
+(2014). 
+An 
+educational 
+game 
+for 
+learning 
+human 
+immunology: 
+What 
+do 
+students 
+learn 
+and 
+how 
+do 
+they 
+perceive? 
+British 
+Journal 
+of 
+Educational 
+Technology, 
+45(5), 
+820e833. 
+Chiesa, 
+A., 
+Calati, 
+R., 
+& 
+Serretti, 
+A. 
+(2011). 
+Does 
+mindfulness 
+training 
+improve 
+cognitive 
+abilities? 
+A 
+systematic 
+review 
+of 
+neuropsychological 
+.ndings. 
+Clinical 
+Psychology 
+Review, 
+31(3), 
+449e464. 
+Clark, 
+R. 
+C., 
+& 
+Mayer, 
+R. 
+E. 
+(2011). 
+E-learning 
+and 
+the 
+science 
+of 
+instruction: 
+Proven 
+guidelines 
+for 
+consumers 
+and 
+designers 
+of 
+multimedia 
+learning. 
+Hoboken, 
+NJ: 
+John 
+Wiley 
+& Sons. 
+Cox, 
+W. 
+M., 
+& 
+Klinger, 
+E. 
+(2011). 
+Handbook 
+of 
+motivational 
+counseling: 
+Goal-based 
+approaches 
+to 
+assessment 
+and 
+intervention 
+with 
+addiction 
+and 
+other 
+problems. 
+Hoboken, 
+NJ: 
+John 
+Wiley 
+& Sons. 
+Csikszentmihalyi, 
+M. 
+(1997). 
+Flow 
+and 
+the 
+psychology 
+of 
+discovery 
+and 
+invention.New 
+York, 
+NY: 
+Harper 
+Perennial. 
+Dondlinger, 
+M. 
+J. 
+(2007). 
+Educational 
+video 
+game 
+design: 
+A 
+review 
+of 
+the 
+literature. 
+Journal 
+of 
+Applied 
+Educational 
+Technology, 
+4(1), 
+21e31. 
+
+Duval, 
+S., 
+& 
+Tweedie, 
+R. 
+(2000). 
+Trim 
+and 
+.ll: 
+A 
+simple 
+funnel-plotebased 
+method 
+of 
+testing 
+and 
+adjusting 
+for 
+publication 
+bias 
+in 
+meta-analysis. 
+Biometrics, 
+56(2), 
+455e463. 
+Epstein, 
+T. 
+L. 
+(1997). 
+Sociocultural 
+approaches 
+to 
+young 
+People's 
+historical 
+under-
+standing. 
+Social 
+Education, 
+61(1), 
+28e31. 
+
+Ertmer, 
+P. 
+A., 
+& 
+Ottenbreit-Leftwich, 
+A. 
+T. 
+(2010). 
+Teacher 
+technology 
+change: 
+How 
+knowledge, 
+con.dence, 
+beliefs, 
+and 
+culture 
+intersect. 
+Journal 
+of 
+Research 
+on 
+Technology 
+in 
+Education, 
+42(3), 
+255e284. 
+Fiske, 
+S. 
+T., 
+& 
+Taylor, 
+S. 
+E. 
+(2013). 
+Social 
+cognition: 
+From 
+brains 
+to 
+culture. 
+Thousand 
+Oaks, 
+CA: 
+Sage. 
+Hamre, 
+B. 
+K., 
+Pianta, 
+R. 
+C., 
+Downer, 
+J. 
+T., 
+DeCoster, 
+J., 
+Mashburn, 
+A. 
+J., 
+Jones, 
+S. 
+M., 
+et 
+al. 
+(2013). 
+Teaching 
+through 
+interactions. 
+The 
+Elementary 
+School 
+Journal, 
+113(4), 
+461e487. 
+
+Hardin, 
+A. 
+M., 
+Looney, 
+C. 
+A., 
+& 
+Fuller, 
+M. 
+A. 
+(2014). 
+Self-ef.cacy, 
+learning 
+method 
+appropriation 
+and 
+software 
+skills 
+acquisition 
+in 
+learner-controlled 
+CSSTS 
+en-
+vironments. 
+Information 
+Systems 
+Journal, 
+24(1), 
+3e27. 
+
+Hotton, 
+S., 
+& 
+Yoshimi, 
+J. 
+(2011). 
+Extending 
+dynamical 
+systems 
+theory 
+to 
+model 
+embodied 
+cognition. 
+Cognitive 
+Science, 
+35(3), 
+444e479. 
+Hwang, 
+G. 
+J., 
+Chiu, 
+L. 
+Y., 
+& 
+Chen, 
+C. 
+H. 
+(2015). 
+A 
+contextual 
+game-based 
+learning 
+approach 
+to 
+improving 
+students' 
+inquiry-based 
+learning 
+performance 
+in 
+social 
+studies 
+courses. 
+Computers 
+& Education, 
+81,13e25. 
+Kunkler, 
+K. 
+(2006). 
+The 
+role 
+of 
+medical 
+simulation: 
+An 
+overview. 
+The 
+International 
+Journal 
+of 
+Medical 
+Robotics 
+and 
+Computer 
+Assisted 
+Surgery, 
+2(3), 
+203e210. 
+Lamb, 
+R. 
+(2014). 
+Examination 
+of 
+allostasis 
+and 
+online 
+laboratory 
+simulations 
+in 
+a 
+middle 
+school 
+science 
+classroom. 
+Computers 
+in 
+Human 
+Behavior, 
+39, 
+224e234. 
+Lamb, 
+R. 
+L. 
+(2016). 
+Examination 
+of 
+the 
+effects 
+of 
+dimensionality 
+on 
+cognitive 
+pro-
+cessing 
+in 
+science: 
+A 
+computational 
+modeling 
+experiment 
+comparing 
+online 
+laboratory 
+simulations 
+and 
+serious 
+educational 
+games. 
+Journal 
+of 
+Science 
+Edu-
+cation 
+and 
+Technology, 
+25(1), 
+1e15. 
+Lamb, 
+R., 
+Akmal, 
+T., 
+& 
+Petrie, 
+K. 
+(2015). 
+Development 
+of 
+a 
+cognition-priming 
+model 
+describing 
+learning 
+in 
+a 
+STEM 
+classroom. 
+Journal 
+of 
+Research 
+in 
+Science 
+Teaching, 
+52(3), 
+410e437. 
+
+Lamb, 
+R., 
+& 
+Annetta, 
+L. 
+(2009). 
+A 
+pilot 
+study 
+of 
+online 
+simulations 
+and 
+problem 
+based 
+learning 
+in 
+a 
+chemistry 
+classroom. 
+Journal 
+Virginia 
+Science 
+Educator, 
+3(2), 
+34e50. 
+Lamb, 
+R., 
+& 
+Annetta, 
+L. 
+(2012). 
+In.uences 
+of 
+gender 
+on 
+computer 
+simulation 
+out-
+comes. 
+Meridian, 
+13(1). 
+Lamb, 
+R. 
+L., 
+& 
+Annetta, 
+L. 
+(2013). 
+The 
+use 
+of 
+online 
+modules 
+and 
+the 
+effect 
+on 
+stu-
+dent 
+outcomes 
+in 
+a 
+high 
+school 
+chemistry 
+class. 
+Journal 
+of 
+Science 
+Education 
+and 
+Technology, 
+22(5), 
+603e613. 
+Lamb, 
+R. 
+L., 
+Annetta, 
+L., 
+Meldrum, 
+J., 
+& 
+Vallett, 
+D. 
+(2012). 
+Measuring 
+science 
+interest: 
+Rasch 
+validation 
+of 
+the 
+science 
+interest 
+survey. 
+International 
+Journal 
+of 
+Science 
+and 
+Mathematics 
+Education, 
+10(3), 
+643e668. 
+Lamb, 
+R., 
+Annetta, 
+L., 
+Vallett, 
+D., 
+Firestone, 
+J., 
+Schmitter-Edgecombe, 
+M., 
+Walker, 
+H., 
+et 
+al. 
+(2017). 
+Psychosocial 
+factors 
+impacting 
+STEM 
+career 
+selection. 
+The 
+Journal 
+of 
+Educational 
+Research,1e13. 
+Lamb, 
+R. 
+L., 
+Annetta, 
+L., 
+Vallett, 
+D. 
+B., 
+& 
+Sadler, 
+T. 
+D. 
+(2014). 
+Cognitive 
+diagnostic 
+like 
+approaches 
+using 
+neural-network 
+analysis 
+of 
+serious 
+educational 
+videogames. 
+Computers 
+& Education, 
+70,92e104. 
+Lamb, 
+R., 
+Cavagnetto, 
+A., 
+& 
+Akmal, 
+T. 
+(2014). 
+Examination 
+of 
+the 
+nonlinear 
+dynamic 
+systems 
+associated 
+with 
+science 
+student 
+cognition 
+while 
+engaging 
+in 
+science 
+information 
+processing. 
+International 
+Journal 
+of 
+Science 
+and 
+Mathematics 
+Edu-
+cation,1e19. 
+
+Lamb, 
+R. 
+L., 
+Vallett, 
+D. 
+B., 
+Akmal, 
+T., 
+& 
+Baldwin, 
+K. 
+(2014). 
+A 
+computational 
+modeling 
+of 
+student 
+cognitive 
+processes 
+in 
+science 
+education. 
+Computers 
+& Education, 
+79, 
+116e125. 
+Lamb, 
+R. 
+L., 
+Vallett, 
+D., 
+& 
+Annetta, 
+L. 
+(2014). 
+Development 
+of 
+a 
+short-form 
+measure 
+of 
+science 
+and 
+technology 
+self-ef.cacy 
+using 
+Rasch 
+analysis. 
+Journal 
+of 
+Science 
+Education 
+and 
+Technology, 
+23(5), 
+641e657. 
+
+Mazur, 
+J. 
+E. 
+(2015). 
+Learning 
+and 
+behavior. 
+New 
+York, 
+NY: 
+Psychology 
+Press. 
+Mitchell, 
+A., 
+& 
+Savill-Smith, 
+C. 
+(2004). 
+The 
+use 
+of 
+computer 
+and 
+video 
+games 
+for 
+learning: 
+A 
+review 
+of 
+the 
+literature 
+london. 
+England: 
+Learning 
+and 
+skills 
+Devel-
+opment 
+Agency. 
+
+Paine, 
+G. 
+(2007). 
+Sonic 
+Immersion: 
+Interactive 
+engagement 
+in 
+real-time 
+immersive 
+environments. 
+SCAN 
+Journal 
+of 
+Media 
+Arts 
+and 
+Culture, 
+4(1). 
+Pearce, 
+N., 
+Weller, 
+M., 
+Scanlon, 
+E., 
+& 
+Kinsley, 
+S. 
+(2012). 
+Digital 
+scholarship 
+consid-
+ered: 
+How 
+new 
+technologies 
+could 
+transform 
+academic 
+work. 
+Education, 
+16(1). 
+Perlovsky, 
+L. 
+(2009). 
+Language 
+and 
+emotions: 
+Emotional 
+sapirewhorf 
+hypothesis. 
+Neural 
+Networks, 
+22(5), 
+518e526. 
+Schmitz, 
+B., 
+Klemke, 
+R., 
+& 
+Specht, 
+M. 
+(2014). 
+The 
+impact 
+of 
+coupled 
+games 
+on 
+the 
+learning 
+experience 
+of 
+learners 
+at-risk: 
+An 
+empirical 
+study. 
+Pervasive 
+and 
+Mobile 
+Computing, 
+14,57e65. 
+Schore, 
+A. 
+N. 
+(2000). 
+Attachment 
+and 
+the 
+regulation 
+of 
+the 
+right 
+brain. 
+Attachment 
+& 
+Human 
+Development, 
+2(1), 
+23e47. 
+
+Slavin, 
+R. 
+E. 
+(2011). 
+Cooperative 
+learning. 
+Learning 
+and 
+cognition 
+in 
+education. 
+Boston: 
+MA: 
+Elsevier 
+Academic 
+Press. 
+Somerville, 
+L. 
+H., 
+Wagner, 
+D. 
+D., 
+Wig, 
+G. 
+S., 
+Moran, 
+J. 
+M., 
+Whalen, 
+P. 
+J., 
+& 
+Kelley, 
+W. 
+M. 
+(2013). 
+Interactions 
+between 
+transient 
+and 
+sustained 
+neural 
+signals 
+support 
+the 
+generation 
+and 
+regulation 
+of 
+anxious 
+emotion. 
+Cerebral 
+Cortex, 
+23(1), 
+49e60. 
+Usher, 
+E. 
+L. 
+(2012). 
+Self-ef.cacy 
+for 
+self-regulated 
+learning. 
+In 
+Encyclopedia 
+of 
+the 
+sciences 
+of 
+learning 
+(pp. 
+3001e3003). 
+New 
+York, 
+NY: 
+Springer. 
+
+Vallett, 
+D. 
+B., 
+& 
+Annetta, 
+L. 
+(2014). 
+Re-visioning 
+K-12 
+education: 
+Learning 
+through 
+failurednot 
+social 
+promotion. 
+Psychology 
+of 
+Popular 
+Media 
+Culture, 
+3(3), 
+174. 
+Vogel, 
+J. 
+J., 
+Vogel, 
+D. 
+S., 
+Cannon-Bowers, 
+J., 
+Bowers, 
+C. 
+A., 
+Muse, 
+K., 
+& 
+Wright, 
+M. 
+(2006). 
+Computer 
+gaming 
+and 
+interactive 
+simulations 
+for 
+learning: 
+A 
+meta-analysis. 
+Journal 
+of 
+Educational 
+Computing 
+Research, 
+34(3), 
+229e243. 
+Walker, 
+W. 
+E., 
+Giddings, 
+J., 
+& 
+Armstrong, 
+S. 
+(2011). 
+Training 
+and 
+learning 
+for 
+crisis 
+management 
+using 
+a 
+virtual 
+simulation/gaming 
+environment. 
+Cognition, 
+Tech-
+nology 
+& Work, 
+13(3), 
+163e173. 
+Walkowiak, 
+S., 
+Foulsham, 
+T., 
+& 
+Eardley, 
+A. 
+F. 
+(2015). 
+Individual 
+differences 
+and 
+personality 
+correlates 
+of 
+navigational 
+performance 
+in 
+the 
+virtual 
+route 
+learning 
+task. 
+Computers 
+in 
+Human 
+Behavior, 
+45, 
+402e410. 
+Weick, 
+K. 
+E., 
+Sutcliffe, 
+K. 
+M., 
+& 
+Obstfeld, 
+D. 
+(2005). 
+Organizing 
+and 
+the 
+process 
+of 
+sense 
+making. 
+Organization 
+Science, 
+16(4), 
+409e421. 
+
+Wouters, 
+P., 
+& 
+van 
+Oostendorp, 
+H. 
+(2017). 
+Overview 
+of 
+instructional 
+techniques 
+to 
+facilitate 
+learning 
+and 
+motivation 
+of 
+serious 
+games. 
+In 
+Instructional 
+techniques 
+to 
+facilitate 
+learning 
+and 
+motivation 
+of 
+serious 
+games 
+(pp. 
+1e16). 
+New 
+York, 
+NY: 
+Springer 
+Publishing. 
+Young, 
+M. 
+F., 
+Slota, 
+S., 
+Cutter, 
+A. 
+B., 
+Jalette, 
+G., 
+Mullin, 
+G., 
+Lai, 
+B., 
+et 
+al. 
+(2012). 
+Our 
+princess 
+is 
+in 
+another 
+castle 
+a 
+review 
+of 
+trends 
+in 
+serious 
+gaming 
+for 
+education. 
+Review 
+of 
+Educational 
+Research, 
+82(1), 
+61e89. 
+Zimmerman, 
+C., 
+& 
+Croker, 
+S. 
+(2014). 
+A 
+prospective 
+cognition 
+analysis 
+of 
+scienti.c 
+thinking 
+and 
+the 
+implications 
+for 
+teaching 
+and 
+learning 
+science. 
+Journal 
+of 
+Cognitive 
+Education 
+and 
+Psychology, 
+13(2), 
+245e257. 
+
+Zyda, 
+M. 
+(2005). 
+From 
+visual 
+simulation 
+to 
+virtual 
+reality 
+to 
+games. 
+Computer, 
+38(9), 
+25e32. 
+
+
+
+
+
+
+
+
+
+
+
