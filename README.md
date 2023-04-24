@@ -6,4 +6,5 @@
 ###  *作業連結區
 #### [作業一](https://github.com/nick399100/LAT/blob/main/week3/task1.ipynb)
 #### [作業二](https://nbviewer.org/github/nick399100/LAT/blob/main/week5/plotly%20tesk2.ipynb) 
+#### [作業三](https://github.com/nick399100/LAT/blob/main/week6/%E4%BD%9C%E6%A5%AD3.ipynb)
 
